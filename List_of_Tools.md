@@ -12,7 +12,7 @@
 * ITarian RMM
 * Kaseya VSA
 * Level
-* ManageEngine (whatever Slee use)
+* ManageEngine Desktop Central
 * ManageEngine ServiceDesk Plus MSP
 * MSP360 RMM
 * N-Able N-Sight
