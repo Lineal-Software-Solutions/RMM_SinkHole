@@ -2,7 +2,7 @@
 
 ## RMM Tools
 * Action1
- * https://www.action1.com/documentation/firewall-configuration/
+   * https://www.action1.com/documentation/firewall-configuration/
 * Atera
 * Barracuda MSP
 * BlueTrait.io
