@@ -15,6 +15,7 @@
 * Datto RMM
   * https://rmm.datto.com/help/en/Content/1INTRODUCTION/Requirements/AllowListRequirements.htm 
 * GoTo Resolve
+  * https://support.goto.com/resolve/help/allowlisting-and-goto-resolve 
 * ITarian RMM
 * Kaseya VSA
 * Level
