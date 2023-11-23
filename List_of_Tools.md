@@ -4,6 +4,7 @@
 * Action1
    * https://www.action1.com/documentation/firewall-configuration/
 * Atera
+   * https://support.atera.com/hc/en-us/articles/360015461139-Firewall-settings-for-Atera-s-integrations
 * Barracuda MSP
 * BlueTrait.io
 * ConnectWise Automate (Labtech)
