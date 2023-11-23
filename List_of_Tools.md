@@ -13,6 +13,7 @@
 * ConnectWise RMM
   * https://docs.connectwise.com/ConnectWise_Business_Knowledge/Connectwise_Public_IP_Addresses 
 * Datto RMM
+  * https://rmm.datto.com/help/en/Content/1INTRODUCTION/Requirements/AllowListRequirements.htm 
 * GoTo Resolve
 * ITarian RMM
 * Kaseya VSA
