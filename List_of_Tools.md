@@ -43,6 +43,7 @@
 * Cendio ThinLinc
 * CloneDesk
 * ConnectWise Control
+* ConnectWise ScreenConnect
 * Chrome Remote Desktop
 * DesktopNow
 * Distant Desktop
@@ -78,7 +79,6 @@
 * RemotePC
 * Remote Utilities
 * RustDesk
-* ScreenConnect
 * SetMe
 * Splashtop
 * Sun Ray / SRSS
