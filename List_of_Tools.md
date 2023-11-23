@@ -18,6 +18,7 @@
   * https://support.goto.com/resolve/help/allowlisting-and-goto-resolve 
 * ITarian RMM
 * Kaseya VSA
+  * https://helpdesk.kaseya.com/hc/en-gb/articles/229028268-Kaseya-Cloud-SaaS-IP-Addresses-and-Ports
 * Level
 * ManageEngine Desktop Central
 * ManageEngine ServiceDesk Plus MSP
