@@ -99,7 +99,7 @@
 
 ## RMM Tools
 * NinjaOne
-* * https://ninjarmm.zendesk.com/hc/en-us/articles/211406886-Whitelist-Allowlist-Information
+  * https://ninjarmm.zendesk.com/hc/en-us/articles/211406886-Whitelist-Allowlist-Information
 
 ## Remote Access Tools
 * TeamViewer (for now)
