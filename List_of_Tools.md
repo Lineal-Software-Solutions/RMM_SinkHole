@@ -7,6 +7,7 @@
    * https://support.atera.com/hc/en-us/articles/360015461139-Firewall-settings-for-Atera-s-integrations
 * Barracuda MSP
 * BlueTrait.io
+  * https://bluetrait.io/docs 
 * ConnectWise Automate (Labtech)
 * ConnectWise RMM
 * Datto RMM
