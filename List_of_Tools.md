@@ -9,7 +9,9 @@
 * BlueTrait.io
   * https://bluetrait.io/docs 
 * ConnectWise Automate (Labtech)
+  * https://docs.connectwise.com/ConnectWise_Business_Knowledge/Connectwise_Public_IP_Addresses 
 * ConnectWise RMM
+  * https://docs.connectwise.com/ConnectWise_Business_Knowledge/Connectwise_Public_IP_Addresses 
 * Datto RMM
 * GoTo Resolve
 * ITarian RMM
@@ -44,7 +46,9 @@
 * Cendio ThinLinc
 * CloneDesk
 * ConnectWise Control
+  * https://docs.connectwise.com/ConnectWise_Business_Knowledge/Connectwise_Public_IP_Addresses 
 * ConnectWise ScreenConnect
+  * https://docs.connectwise.com/ConnectWise_Business_Knowledge/Connectwise_Public_IP_Addresses  
 * Chrome Remote Desktop
 * DesktopNow
 * Distant Desktop
