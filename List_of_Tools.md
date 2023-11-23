@@ -34,6 +34,7 @@
 * AetherPlan
 * Ammyy Admin
 * AnyDesk
+  * https://support.anydesk.com/knowledge/firewall#Ports-and-Whitelist 
 * AnyPlace Control
 * AnyViewer
 * AppliDis
