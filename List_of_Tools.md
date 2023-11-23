@@ -77,6 +77,7 @@
 * RemotePC
 * Remote Utilities
 * RustDesk
+* ScreenConnect
 * SetMe
 * Splashtop
 * Sun Ray / SRSS
