@@ -1,6 +1,7 @@
 # RMM_SinkHole
 A project to automate the blocking of domains and IPs for RMM and remote control tools not authorised for use on managed systems.
 
+Anyone from any MSP are welcome to add and utilise the list - all has been obtained from publicly available sources so there should be no surprises or sensitive information within.
 
 
 ## Project To-Do List
