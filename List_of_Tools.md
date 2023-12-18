@@ -2,17 +2,25 @@
 
 ## RMM Tools
 * Action1
+   * https://www.action1.com/documentation/firewall-configuration/
 * Atera
+   * https://support.atera.com/hc/en-us/articles/360015461139-Firewall-settings-for-Atera-s-integrations
 * Barracuda MSP
 * BlueTrait.io
+  * https://bluetrait.io/docs 
 * ConnectWise Automate (Labtech)
+  * https://docs.connectwise.com/ConnectWise_Business_Knowledge/Connectwise_Public_IP_Addresses 
 * ConnectWise RMM
+  * https://docs.connectwise.com/ConnectWise_Business_Knowledge/Connectwise_Public_IP_Addresses 
 * Datto RMM
+  * https://rmm.datto.com/help/en/Content/1INTRODUCTION/Requirements/AllowListRequirements.htm 
 * GoTo Resolve
+  * https://support.goto.com/resolve/help/allowlisting-and-goto-resolve 
 * ITarian RMM
 * Kaseya VSA
+  * https://helpdesk.kaseya.com/hc/en-gb/articles/229028268-Kaseya-Cloud-SaaS-IP-Addresses-and-Ports
 * Level
-* ManageEngine (whatever Slee use)
+* ManageEngine Desktop Central
 * ManageEngine ServiceDesk Plus MSP
 * MSP360 RMM
 * N-Able N-Sight
@@ -32,6 +40,7 @@
 * AetherPlan
 * Ammyy Admin
 * AnyDesk
+  * https://support.anydesk.com/knowledge/firewall#Ports-and-Whitelist 
 * AnyPlace Control
 * AnyViewer
 * AppliDis
@@ -40,6 +49,9 @@
 * Cendio ThinLinc
 * CloneDesk
 * ConnectWise Control
+  * https://docs.connectwise.com/ConnectWise_Business_Knowledge/Connectwise_Public_IP_Addresses 
+* ConnectWise ScreenConnect
+  * https://docs.connectwise.com/ConnectWise_Business_Knowledge/Connectwise_Public_IP_Addresses  
 * Chrome Remote Desktop
 * DesktopNow
 * Distant Desktop
@@ -99,6 +111,7 @@
 
 ## RMM Tools
 * NinjaOne
+  * https://ninjarmm.zendesk.com/hc/en-us/articles/211406886-Whitelist-Allowlist-Information
 
 ## Remote Access Tools
 * TeamViewer (for now)
