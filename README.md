@@ -1,5 +1,7 @@
 # RMM_SinkHole
-A project to automate the blocking of domains and IPs for RMM and remote control tools not authorised by Lineal for our clients.
+A project to automate the blocking of domains and IPs for RMM and remote control tools not authorised for use on managed systems.
+
+
 
 ## Project To-Do List
 * Identify all other RMM or remote access tools
@@ -14,3 +16,5 @@ A project to automate the blocking of domains and IPs for RMM and remote control
 * Create API calls/apps to add blocks to firewall appliances
 * Create PowerShell script to sinkhole all domains/IPs in the Windows Firewall where a domain isn't joined
 * Create shell script(s) to sinkhole all domains/IPs in the macOS & Linux firewalls
+
+**Note:** *Lineal have most of the above already. Just haven't found the bandwidth to move them into this repository as yet.*
