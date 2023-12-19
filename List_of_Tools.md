@@ -20,11 +20,22 @@
 * Kaseya VSA
   * https://helpdesk.kaseya.com/hc/en-gb/articles/229028268-Kaseya-Cloud-SaaS-IP-Addresses-and-Ports
 * Level
-* ManageEngine Desktop Central
+  * https://docs.level.io/1.0/admin-guides/troubleshooting-agent-issues
+* ManageEngine Endpoint Central
+  * *This is a self-host solution*
+* ManageEngine Endpoint Central MSP
+  * *This is a self-host solution*
+* ManageEngine Patch Manager Plus
+  * *This is a self-host solution*
+* ManageEngine RMM Central
+  * *This is a self-host solution*
+  * https://www.manageengine.com/remote-monitoring-management/software_installation_failure_to_connect_msp.html
 * ManageEngine ServiceDesk Plus MSP
+  * *This is a self-host solution*
 * MSP360 RMM
 * N-Able N-Sight
 * N-Able N-Central
+  * *This can be a self-host solution*
 * Navarisk
 * OptiTune
 * Panorama9
@@ -70,6 +81,9 @@
 * Jump Desktop
 * LiteManager
 * LogMeIn
+* ManageEngine Remote Access Plus
+  * *This is a self-host solution*
+* ManageEngine Customer Support Software (see Zoho Assist)
 * Mikogo
 * MyWorkDrive
 * NetSupport Manager
@@ -99,6 +113,8 @@
 * XPRA
 * X11vnc
 * X2Go
+* Zoho Assist
+  * https://www.zoho.com/assist/faq.html
 
 
 ## Other Tools to Consider Including
