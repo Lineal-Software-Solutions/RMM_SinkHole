@@ -63,3 +63,13 @@ gotoresolve	domain	sentry-cnd.com	deny
 gotoresolve	domain	pusherapp.com	deny
 gotoresolve	domain	pusher.com	deny
 kaseyavsa	domain	sg.cloud.kaseya.net	deny
+level	domain	level.io	deny
+level	domain	agents.level.io	deny
+level	domain	builds.level.io	deny
+level	domain	downloads.level.io	deny
+mermmcentral	domain	patchquest.com	deny
+mermmcentral	domain	sync.patchquest.com	deny
+mermmcentral	domain	patchdb.manageengine.com	deny
+mermmcentral	domain	manageengine.com	deny
+zohoassist	domain	zoho.com	deny
+zohoassist	domain	zohoassist.com	deny
