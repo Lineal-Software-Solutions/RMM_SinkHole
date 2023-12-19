@@ -33,7 +33,14 @@
 * ManageEngine ServiceDesk Plus MSP
   * *This is a self-host solution*
 * MSP360 RMM
+  * *Uses the same platform as MSP360 Managed Backup*
+  * https://www.msp360.com/download/msp360-rmm-overview-and-faq.pdf
+  * https://kb.msp360.com/managed-backup-service/mbs-tcp-ports-configuration
 * N-Able N-Sight
+  * https://documentation.n-able.com/remote-management/userguide/Content/agent_upload_urls.htm
+  * https://documentation.n-able.com/remote-management/userguide/Content/run_now_pers.htm 
+  * https://documentation.n-able.com/remote-management/userguide/Content/agent_comms.htm
+  * https://documentation.n-able.com/remote-management/userguide/Content/dashboard_urls.htm
 * N-Able N-Central
   * *This can be a self-host solution*
 * Navarisk
@@ -85,10 +92,12 @@
   * *This is a self-host solution*
 * ManageEngine Customer Support Software (see Zoho Assist)
 * Mikogo
+* MSP360 Connect
 * MyWorkDrive
 * NetSupport Manager
 * Netviewer
 * N-Able Take Control
+  * https://documentation.n-able.com/remote-management/userguide/Content/take_control_permissions_requirements.htm
 * No-IP Remote Access
 * NX Technology NoMachine
 * Parsec
