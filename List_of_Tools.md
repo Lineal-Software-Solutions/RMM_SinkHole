@@ -112,6 +112,8 @@
 * Cendio ThinLinc
   * *This is a self-host solution*
   * https://www.cendio.com/resources/docs/tag/network.html#:~:text=The%20ThinLinc%20servers%20need%20to%20communicate%20with%20the,using%20TCP%20port%20139%20and%2For%20TCP%20port%20445.
+* Classroom.cloud
+  * https://kb.netsupportsoftware.com/knowledge-base/what-are-the-fqdns-for-classroom-clouds-servers/
 * ClonaDesk
   * https://clonadesk.com/faq
 * ConnectWise Control
@@ -128,6 +130,10 @@
 * DWService
   * https://www.dwservice.net/en/security.html
   * https://docs.dwservice.net/docs/site/remote-access/access-a-specific-remote-machine-agent/
+* EasyVista Reach
+  * *This is a self-host solution*
+  * https://wiki.easyvista.com/xwiki/bin/view/Documentation/EV-Reach/EV-Reach-General-Configuration-Network-Ports/
+  * https://wiki.easyvista.com/xwiki/bin/view/Documentation/EV-Reach/EV-Reach-Server/EV-Reach-Gateway-Service-Overview/EV-Reach-Gateway-Service-External-Device-Management/
 * Ericom Connect
   * *This is a self-host solution*
   * https://sc.ericom.com/support/documentation/connect/?doc=/getting-started-guide/requirements/#section-header-two-7948t
@@ -138,35 +144,84 @@
   * https://docs.getscreen.me/en/self-hosted/system-requirements/#hardware
 * Glance Networks Cobrowse
   * https://help.glance.net/glance-cobrowse/integrity/
-* GoToMyPC
-  * https://support.logmeininc.com/gotomypc/help/what-are-the-optimal-firewall-configurations
-* Goverlan Systems Management
+* Goverlan Remote Control
+  * *See EasyVista Reach*
 * IBM Director Remote Control
+  * *This is a self-host solution*
+  * *See Tivoli Remote Control*
 * I'm InTouch
+  * https://www.01com.com/imintouch-remote-pc-desktop/faqs/remote-access/
 * Iperius Remote
-* KRDC
+  * *This is a self-host solution*
+  * *Uses P2P communication*
+  * https://www.iperiusremote.com/18699/iperius-remote-desktop-4-configuration-guide/
 * Jump Desktop
+  * https://support.jumpdesktop.com/hc/en-us/articles/360042490351-Administrators-Guide-For-Jump-Desktop-Connect
 * LiteManager
+  * *This is a self-host solution*
+  * https://litemanager.com/support/help_en/
 * LogMeIn
+  * Global allow-list: https://support.logmeininc.com/central/help/allowlisting-and-firewall-configuration
+  * **GoTo Connect**
+    * https://support.goto.com/connect/help/allowlisting-and-firewall-configuration
+  * **GoTo Meeting & GoTo Room**
+    * https://support.goto.com/meeting/help/allowlisting-and-firewall-configuration
+  * **GoTo Webinar**
+    * https://support.goto.com/webinar/help/allowlisting-and-firewall-configuration
+  * **GoTo Training**
+    https://support.goto.com/training/help/allowlisting-and-firewall-configuration
+  * **OpenVoice**
+    * https://support.goto.com/openvoice/help/whitelisting-and-firewall-configuration
+  * **Join.Me**
+    * https://support.goto.com/joinme/help/allowlisting-and-firewall-configuration-for-joinme
+  * **Rescue**
+    * https://support.logmeinrescue.com/rescue/help/allowlisting-and-rescue
+  * **Rescue Live Lens**
+    * *See LogMeIn Rescue*
+  * **GoTo Resolve**
+    * https://support.goto.com/resolve/help/allowlisting-and-goto-resolve
+  * **GoToAssist**
+    * https://support.goto.com/gotoassist-corporate/help/what-should-i-allow-on-my-firewall-for-gotoassist-corporate
+  * **GoToMyPC**
+    *  https://support.logmeininc.com/gotomypc/help/what-are-the-optimal-firewall-configurations
+  * **RemotelyAnywhere**
+    * https://support.logmeininc.com/remotelyanywhere/help/allowlisting-and-goto
+  * **Central**
+    * https://support.logmeininc.com/central/help/allowlisting-and-firewall-configuration
+  * **Pro**
+    * https://support.logmeininc.com/pro/help/whitelisting-and-logmein
+  * **Hamachi**
+    * https://support.logmeininc.com/pro/help/whitelisting-and-logmein
 * ManageEngine Remote Access Plus
   * *This is a self-host solution*
 * ManageEngine Customer Support Software 
   * *See Zoho Assist*
 * Mikogo
+  * https://mikogo.zendesk.com/hc/en-us/articles/214072478-Which-IP-addresses-do-we-use-for-our-services-
 * MSP360 Connect
+  * https://kb.msp360.com/managed-backup-service/mbs-tcp-ports-configuration
 * MyWorkDrive
+  * https://www.myworkdrive.com/support/firewall-settings-myworkdrive-server/#:~:text=To%20function%20correctly%20the%20MyWorkDrive%20Server%20needs%20outgoing,and%20IP%20address%20ranges%20per%20Microsoft%20article%20here.
 * Naverisk Remote Control
   * *See Splashtop for RMM*
+* NetSupport DNA
+  * *This is a self-host solution*
 * NetSupport Manager
-* Netviewer
+  * *This is a self-host solution*
 * N-Able Take Control
   * https://documentation.n-able.com/remote-management/userguide/Content/take_control_permissions_requirements.htm
-* No-IP Remote Access
 * NX Technology NoMachine
+  * *This is a self-host solution*
+  * https://kb.nomachine.com/AR11L00827?s=firewall
 * Opti-Tune Remote Connect
+  * *See Opti-Tune RMM*
 * Panorama9 P9 Connect
+  * *See Panorama9 RMM*
 * Parsec
+  * https://parsechelp.zendesk.com/hc/en-us/articles/4440911373325-Parsec-Connectivity-Requirements
 * PC-Duo by Vector Networks
+  * *This is a self-host solution*
+  * https://www.vector-networks.com/content/wp-content/uploads/2023/06/PC-Duo-Networking-Requirements-v13-1.pdf
 * Proxy Networks
 * Pulseway Remote Control
   * https://intercom.help/pulseway/en/articles/3436466-pulseway-ip-addresses-used-by-the-pulseway-agent
@@ -182,6 +237,10 @@
 * Sun Ray / SRSS
 * Symantec PcAnywhere
 * Techinline
+* Tivoli Remote Control
+  * *This is a self-host solution*
+  * Comms on 1918/tcp, 3600/tcp, 1920/tcp, 3661/tcp, 15001/tcp, 15200/tcp
+  * https://www.ibm.com/docs/en/tivoli-monitoring/6.3.0?topic=phase-understanding-tivoli-monitoring-your-network
 * Thinc
 * TruGrid Remote Desktop Service
 * Veyon
