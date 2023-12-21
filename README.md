@@ -3,6 +3,8 @@ A project to automate the blocking of domains and IPs for RMM and remote control
 
 Anyone from any MSP are welcome to add and utilise the list - all has been obtained from publicly available sources so there should be no surprises or sensitive information within.
 
+**Please validate any data before using in your environment.** Standard buyer beware - every network is different and we really don't want to upset yours at all. 
+
 
 ## Project To-Do List
 * Identify all other RMM or remote access tools
