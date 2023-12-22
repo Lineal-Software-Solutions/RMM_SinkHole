@@ -225,36 +225,58 @@
 * Proxy Networks
 * Pulseway Remote Control
   * https://intercom.help/pulseway/en/articles/3436466-pulseway-ip-addresses-used-by-the-pulseway-agent
-* QVD
-* rdesktop
 * RealVNC
-* Remmina
-* RemotePC
+  * https://help.realvnc.com/hc/en-us/articles/360002253158
+* RemoteToPC
+  * https://remotetopc.com/cc-help-page/dns-server-exclusion/
+  * https://remotetopc.com/cc-help-page/ports/
+  * https://www.remotedesktop.com/helpdesk/faq-firewall.htm
 * Remote Utilities
+  * *This can be a self-host solution*
+  * *Internet-ID server list not published*
 * RustDesk
+  * *This is a self-host solution*
 * SetMe
+  * https://docs.set.me/getting-started/system-requirements
 * Splashtop
+  * https://support-splashtopbusiness.splashtop.com/hc/en-us/articles/115001811966-What-are-the-Firewall-Exceptions-and-IP-addresses-of-Splashtop-servers-Services-
+  * https://support-splashtoppersonal.splashtop.com/hc/en-us/articles/5903312319259-What-are-the-Firewall-Exceptions-and-IP-addresses-of-Splashtop-servers-Services-#:~:text=If%20communication%20is%20blocked%2C%20please%20enable%20your%20firewalls,open%2C%20including%20ssl%20and%20non-ssl%20traffic%20Local%20connections
 * Sun Ray / SRSS
+  * *This is a self-host solution*
 * Symantec PcAnywhere
-* Techinline
+  * *This is a self-host solution*
+  * https://fbs.admin.utah.edu/download/ecommerce/Semantec_pcAnywhere%20Security%20Recommendations%20WP_01_23_Final.pdf
+* Techinline Remote Desktop / FixMe.IT
+  * https://blog.techinline.com/2017/02/07/how-to-enable-fixme-it-in-restricted-network-environments/
 * Tivoli Remote Control
   * *This is a self-host solution*
   * Comms on 1918/tcp, 3600/tcp, 1920/tcp, 3661/tcp, 15001/tcp, 15200/tcp
   * https://www.ibm.com/docs/en/tivoli-monitoring/6.3.0?topic=phase-understanding-tivoli-monitoring-your-network
-* Thinc
-* TruGrid Remote Desktop Service
+* TruGrid Remote Desktop Service / TruGrid SecureRDP
+  * https://help.trugrid.com/en/article/how-to-whitelist-trugrid-outbound-traffic-on-the-firewall-1nniv4f/
 * Veyon
+  * *This is a self-host solution*
+  * https://docs.veyon.io/en/latest/admin/configuration.html
 * Vinagre
+  * *This is a self-host solution*
 * XPRA
+  * *This is a self-host solution*
+  * https://github.com/Xpra-org/xpra
 * X11vnc
+  * *This is a self-host solution*
+  * https://linux.die.net/man/1/x11vnc
 * X2Go
+  * *This is a self-host solution*
+  * https://wiki.archlinux.org/title/X2Go
 * Zoho Assist
   * https://www.zoho.com/assist/faq.html
 
 
 ## Other Tools to Consider Including
 * Auvik
+  * https://support.auvik.com/hc/en-us/articles/204315700-What-protocols-and-ports-does-the-Auvik-collector-use-
 * Domotz
+  * https://help.domotz.com/tips-tricks/unblock-outgoing-connections-on-firewall/#:~:text=For%20the%20Domotz%20Agent%20to%20connect%20properly%20to,echo.domotz.com%20%28ICMP%29%20NORTH%20AMERICA%20api-us-east-1-cell-1.domotz.com%20%28port%20443%20TCP%29
 
 
 
@@ -263,9 +285,10 @@
 ## RMM Tools
 * NinjaOne
   * https://ninjarmm.zendesk.com/hc/en-us/articles/211406886-Whitelist-Allowlist-Information
-
+  * https://community.teamviewer.com/English/kb/articles/108924-network-requirements
 ## Remote Access Tools
 * TeamViewer (for now)
+  * https://community.teamviewer.com/English/kb/articles/4139-ports-used-by-teamviewer
 * Ninja Remote
 * Apple Remote Desktop (internal networks only)
 * mstsc.exe (internal networks only)
