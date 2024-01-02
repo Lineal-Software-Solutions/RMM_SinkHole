@@ -1,4 +1,4 @@
-Tool	EntryType	Data	action
+Tool	EntryType	Data	Action
 ninja	domain	ninjarmm.com	allow
 ninja	domain	ninjarmm.net	allow
 ninja	domain	rmmservice.com	allow
@@ -128,7 +128,6 @@ nablensight	domain	avery-eu-central-1-svc.logicnow.us	deny
 nablensight	domain	avery-eu-central-1-cdn.logicnow.us	deny
 nabletakecontrol	domain	smpa.n-able.com	deny
 nabletakecontrol	domain	swi-rc.cdn-sw.net	deny
-teamviewer	domain	teamviewer.com	deny
 nablencentral	domain	send.n-able.com	deny
 nablencentral	domain	sis.n-able.com	deny
 nablencentral	domain	update.n-able.com	deny
