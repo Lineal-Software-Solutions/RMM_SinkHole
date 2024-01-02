@@ -7,9 +7,9 @@ Anyone from any MSP are welcome to add and utilise the list - all has been obtai
 
 
 ## Project To-Do List
-* Identify all other RMM or remote access tools
-* Identify sources of lists for domains / IPs used by other RMM or remote access tools
-* Create list in structured format of published IPs & domains - CSV / JSON / psobject / other(?)
+* ~~Identify all other RMM or remote access tools~~
+* ~~Identify sources of lists for domains / IPs used by other RMM or remote access tools~~
+* ~~Create list in structured format of published IPs & domains - CSV / JSON / psobject / other(?)~~
 * Create monitor to watch known pages for changes
 * Create scraper to update list of sources on discovery of changes by monitor
 * Create alerting following discovery of changes by monitor
