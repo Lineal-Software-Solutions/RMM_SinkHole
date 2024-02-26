@@ -50,6 +50,7 @@ bluetrait	ip	103.209.4.0/23	deny
 bluetrait	ip	14.200.218.138	deny
 cwautomate	domain	hostedrmm.com	deny
 cwrmm	domain	itsupport247.net	deny
+cwc	domain	screenconnect.com	deny
 logmein	domain	logmein.com	deny
 logmein	domain	internapcdn.net	deny
 datto	domain	centrastage.net	deny
