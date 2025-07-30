@@ -522,6 +522,12 @@ barracudarmm,domain,barracuda.com,deny
 barracudarmm,domain,cudaops.com,deny
 barracudarmm,domain,cuda-support.com,deny
 barracudarmm,domain,barracudanetworks.com,deny
+barracudarmm,domain,barracudamsp.com,deny
+barracudarmm,domain,download.mw-rmm.barracudamsp.com,deny
+barracudarmm,domain,whatsmyip.mw-rmm.barracudamsp.com,deny
+barracudarmm,domain,ls-service.mw-rmm.barracudamsp.com,deny
+barracudarmm,domain,updatecenter.mw-rmm.barrcudamsp.com,deny
+barracudarmm,domain,prod.bmb.barracuda.com,deny
 aeroadmin,domain,auth10.aeroadmin.com,deny
 aeroadmin,domain,auth20.aeroadmin.com,deny
 aeroadmin,domain,aeroadmin.com,deny
