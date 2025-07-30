@@ -1,667 +1,714 @@
-Tool	EntryType	Data	Action
-ninja	domain	ninjarmm.com	allow
-ninja	domain	ninjarmm.net	allow
-ninja	domain	rmmservice.com	allow
-ninja	domain	ninjauploads.s2.amazonaws.com	allow
-ninja	domain	ingest.sentry.io	allow
-ninja	domain	rmmservice.eu	allow
-ninja	domain	rmmservice.com.au	allow
-ninja	domain	rmmservice.ca	allow
-ninja	domain	ninja-backup.com	allow
-ninja	domain	lumension.com	allow
-ninja	domain	patchlinksecure.net	allow
-ninja	domain	cloudfront.net	allow
-ninja	domain	heatsoftware.com	allow
-ninja	ip	18.184.54.189	allow
-ninja	ip	52.29.101.137	allow
-ninja	ip	18.195.227.137	allow
-ninja	ip	3.96.93.233	allow
-ninja	ip	15.222.153.112	allow
-ninja	ip	35.182.169.43	allow
-ninja	ip	35.163.67.164	allow
-ninja	ip	34.212.188.161	allow
-ninja	ip	52.33.253.235	allow
-ninja	ip	13.58.90.12	allow
-ninja	ip	3.132.16.202	allow
-ninja	ip	3.135.5.97	allow
-ninja	ip	3.104.128.66	allow
-ninja	ip	3.104.240.36	allow
-ninja	ip	54.66.179.235	allow
-action1	domain	action1.com	deny
-action1	ip	54.210.188.13	deny
-action1	ip	54.227.102.112	deny
-action1	ip	3.210.54.212	deny
-action1	ip	3.213.90.174	deny
-action1	ip	3.74.63.86	deny
-action1	ip	3.124.175.10	deny
-atera	domain	atera.com	deny
-atera	domain	pubnub.com	deny
-atera	domain	pndsn.com	deny
-atera	domain	pubnubapi.com	deny
-atera	domain	atera-agent-heartbeat-cus.servicebus.windows.net	deny
-atera	domain	ticketingitemsstoreeu.blob.core.windows.net	deny
-atera	domain	a32dl55qcodeech-ats.iot.eu-west-1.amazonaws.com	deny
-anydesk	domain	anydesk.com	deny
-anydesk	domain	net.anydesk.com	deny
-anydesk	ip	239.255.102.18	deny
-bluetrait	domain	bluetrait.io	deny
-bluetrait	ip	103.24.132.0/23	deny
-bluetrait	ip	103.209.4.0/23	deny
-bluetrait	ip	14.200.218.138	deny
-cwautomate	domain	hostedrmm.com	deny
-cwrmm	domain	itsupport247.net	deny
-cwc	domain	screenconnect.com	deny
-logmein	domain	logmein.com	deny
-logmein	domain	internapcdn.net	deny
-datto	domain	centrastage.net	deny
-datto	domain	rmm.datto.com	deny
-gotoresolve	domain	gotoresolve.com	deny
-gotoresolve	domain	helpdesk.me	deny
-gotoresolve	domain	logmeininc.com	deny
-gotoresolve	domain	getgo.com	deny
-gotoresolve	domain	logmein.eu	deny
-gotoresolve	domain	segment.com	deny
-gotoresolve	domain	pendo.io	deny
-gotoresolve	domain	sentry-cnd.com	deny
-gotoresolve	domain	pusherapp.com	deny
-gotoresolve	domain	pusher.com	deny
-kaseyavsa	domain	sg.cloud.kaseya.net	deny
-level	domain	level.io	deny
-level	domain	agents.level.io	deny
-level	domain	builds.level.io	deny
-level	domain	downloads.level.io	deny
-mermmcentral	domain	patchquest.com	deny
-mermmcentral	domain	sync.patchquest.com	deny
-mermmcentral	domain	patchdb.manageengine.com	deny
-mermmcentral	domain	manageengine.com	deny
-zohoassist	domain	zoho.com	deny
-zohoassist	domain	zohoassist.com	deny
-msp360rmm	domain	mspbackups.com	deny
-msp360rmm	domain	msp360.com	deny
-msp360rmm	domain	cloudberrylab.com	deny
-msp360rmm	ip	52.5.40.159	deny
-msp360rmm	ip	54.243.221.133	deny
-msp360rmm	ip	52.20.40.101	deny
-msp360rmm	ip	52.6.7.137	deny
-msp360rmm	ip	3.216.171.162	deny
-msp360rmm	ip	3.216.236.203	deny
-msp360rmm	ip	18.197.126.202	deny
-msp360rmm	ip	13.236.247.175	deny
-nablensight	domain	dg5bj97jvb67q.cloudfront.net	deny
-nablensight	domain	remote.management	deny
-nablensight	domain	logicnow.com	deny
-nablensight	domain	logicnow.us	deny
-nablensight	domain	systemmonitor.eu.com	deny
-nablensight	domain	systemmonitor.co.uk	deny
-nablensight	domain	systemmonitor.us	deny
-nablensight	domain	rm-downloads.logicnow.com	deny
-nablensight	domain	rm-downloads-us.logicnow.com	deny
-nablensight	domain	rm-downloads-apac.logicnow.com	deny
-nablensight	domain	system-monitor.com	deny
-nablensight	domain	checks-api.us.system-monitor.com	deny
-nablensight	domain	checks-api.apac.system-monitor.com	deny
-nablensight	domain	checks-api.emea.system-monitor.com	deny
-nablensight	domain	cannonball-us-west-2-push.logicnow.us	deny
-nablensight	domain	cannonball-ap-southeast-2-push.logicnow.us	deny
-nablensight	domain	cannonball-eu-west-1-push.logicnow.us	deny
-nablensight	domain	anz-master.rbm.system-monitor.com	deny
-nablensight	domain	emea-master.rbm.system-monitor.com	deny
-nablensight	domain	us-master.rbm.system-monitor.com	deny
-nablensight	domain	dashboard.am.remote.management	deny
-nablensight	domain	dashboardasia.system-monitor.com	deny
-nablensight	domain	dashboard.system-monitor.com	deny
-nablensight	domain	dashboardeurope1.systemmonitor.eu.com	deny
-nablensight	domain	dashboardfrance1.systemmonitor.eu.com	deny
-nablensight	domain	dashboardfrance.systemmonitor.eu.com	deny
-nablensight	domain	dashboardgermany1.systemmonitor.eu.com	deny
-nablensight	domain	dashboardireland.systemmonitor.eu.com	deny
-nablensight	domain	dashboardpoland1.systemmonitor.eu.com	deny
-nablensight	domain	dashboard.systemmonitor.co.uk	deny
-nablensight	domain	dashboard.systemmonitor.us	deny
-nablensight	domain	navigatorlogin.com	deny
-nablensight	domain	avery-us-west-2-svc.logicnow.us	deny
-nablensight	domain	avery-us-west-2-cdn.logicnow.us	deny
-nablensight	domain	avery-ap-southeast-2-svc.logicnow.us	deny
-nablensight	domain	avery-ap-southeast-2-cdn.logicnow.us	deny
-nablensight	domain	avery-eu-west-1-svc.logicnow.us	deny
-nablensight	domain	avery-eu-west-1-cdn.logicnow.us	deny
-nablensight	domain	avery-eu-central-1-svc.logicnow.us	deny
-nablensight	domain	avery-eu-central-1-cdn.logicnow.us	deny
-nabletakecontrol	domain	smpa.n-able.com	deny
-nabletakecontrol	domain	swi-rc.cdn-sw.net	deny
-nablencentral	domain	send.n-able.com	deny
-nablencentral	domain	sis.n-able.com	deny
-nablencentral	domain	update.n-able.com	deny
-nablencentral	domain	feeds.n-able.com	deny
-nablencentral	domain	servermetrics.n-able.com	deny
-nablencentral	domain	licensing.n-able.com	deny
-nablencentral	domain	push.n-able.com	deny
-nablencentral	domain	scep.n-able.com	deny
-nablencentral	domain	keybox.n-able.com	deny
-nablencentral	domain	keybox.solarwindsmsp.com	deny
-nablencentral	domain	n-able.com	deny
-naverisk	domain	naverisk.com	deny
-optitune	domain	manage.opti-tune.com	deny
-optitune	domain	bravurasoftware.com	deny
-optitune	domain	startup.opti-tune.com	deny
-optitune	domain	opti-tune.com	deny
-panorama9	domain	trusted.panorama9.com	deny
-panorama9	domain	changes.panorama9.com	deny
-panorama9	domain	dashboard.panorama9.com	deny
-pulseway	domain	pulseway.com	deny
-pulseway	ip	69.65.50.9	deny
-pulseway	ip	69.65.50.11	deny
-pulseway	ip	69.65.50.13	deny
-pulseway	ip	69.65.50.15	deny
-pulseway	ip	69.65.50.20	deny
-pulseway	ip	69.65.50.21	deny
-pulseway	ip	69.65.50.22	deny
-pulseway	ip	69.65.50.23	deny
-pulseway	ip	69.65.50.4	deny
-pulseway	ip	69.65.50.5	deny
-pulseway	ip	69.65.50.6	deny
-pulseway	ip	69.65.47.163	deny
-pulseway	ip	69.65.47.165	deny
-pulseway	ip	109.233.52.232	deny
-pulseway	ip	109.233.52.231	deny
-pulsewayrd	ip	3.222.39.148	deny
-pulsewayrd	ip	13.237.174.172	deny
-pulsewayrd	ip	99.81.62.236	deny
-pulsewayrd	ip	18.185.3.44	deny
-pulsewayrd	ip	54.176.91.130	deny
-pulsewayrd	ip	3.135.44.68	deny
-superops	domain	superops.ai	deny
-syncro	domain	app.kabuto.io	deny
-syncro	domain	syncromsp.com	deny
-syncro	domain	syncroapi.com	deny
-syncro	domain	kabutoservices.com	deny
-syncro	domain	id.aurelius.host	deny
-syncro	domain	attachments.servably.com	deny
-synco	domain	rmm.syncromsp.com	deny
-splashtop	domain	api.splashtop.com	deny
-splashtop	domain	relay.splashtop.com	deny
-splashtop	domain	my.splashtop.com	deny
-splashtop	domain	splashtop.com	deny
-syxsense	domain	cloudmanagementsuite.com	deny
-syxsense	domain	verismic.blob.core.windows.net	deny
-syxsense	domain	syxsense.com	deny
-tacticalrmm	domain	tacticalrmm.io	deny
-tacticalrmm	domain	tacticalrmm.com	deny
-itarianrmm	ip	69.4.80.244	deny
-itarianrmm	ip	69.4.89.244	deny
-itarianrmm	ip	69.4.82.59	deny
-itarianrmm	ip	69.4.80.249	deny
-barracudarmm	domain	cudasvc.com	deny
-barracudarmm	domain	barracuda.com	deny
-barracudarmm	domain	cudaops.com	deny
-barracudarmm	domain	cuda-support.com	deny
-barracudarmm	domain	barracudanetworks.com	deny
-aeroadmin	domain	auth10.aeroadmin.com	deny
-aeroadmin	domain	auth20.aeroadmin.com	deny
-aeroadmin	domain	aeroadmin.com	deny
-aeroadmin	ip	89.40.115.70	deny
-aeroadmin	ip	193.124.45.101	deny
-aetherplan	domain	pandasecurity.com	deny
-aetherplan	domain	rc.pandasecurity.com	deny
-aetherplan	domain	pandasecurity.devo.com	deny
-aetherplan	domain	ctmail.com	deny
-aetherplan	domain	rp.cloud.threatseeker.com	deny
-aetherplan	ip	91.216.218.0/24	deny
-aetherplan	ip	52.156.252.193	deny
-aetherplan	ip	137.135.229.184	deny
-aetherplan	ip	84.39.157.9	deny
-aetherplan	ip	84.39.157.1	deny
-aetherplan	ip	216.163.188.45	deny
-aetherplan	ip	142.4.215.12	deny
-aetherplan	ip	51.91.126.6	deny
-aetherplan	ip	51.91.126.20	deny
-aetherplan	ip	54.38.188.203	deny
-aetherplan	ip	54.38.189.99	deny
-aetherplan	ip	51.77.149.216	deny
-aetherplan	ip	51.77.149.200	deny
-ammyyadmin	domain	ammyy.com	deny
-anyviewer	domain	anyviewer.com	deny
-avica	domain	avica.link	deny
-avica	domain	console.avica.link	deny
-awesun	domain	aweray.com	deny
-awesun	domain	sun.aweray.com	deny
-clonadesk	domain	clonadesk.com	deny
-distantdesktop	domain	distantdesktop.com	deny
-dwservice	domain	dwservice.net	deny
-fleetdeck	domain	fleetdeck.io	deny
-fleetdeck	domain	cognito-idp.us-west02.amazonaws.com	deny
-getscreenme	domain	getscreen.me	deny
-getscreenme	domain	updater.getscreen.me	deny
-glancecobrowse	domain	glance.net	deny
-glancecobrowse	domain	glancecdn.net	deny
-gotomypc	domain	filestackapi.com	deny
-gotomypc	domain	expertcity.com	deny
-gotomypc	domain	getgo.com	deny
-gotomypc	domain	getgocdn.com	deny
-gotomypc	domain	getgoservices.net	deny
-gotomypc	domain	getgoservices.com	deny
-gotomypc	domain	goto-rtc.com	deny
-gotomypc	domain	goto.com	deny
-gotomypc	domain	gotoinc.com	deny
-gotomypc	domain	gotoinc.eu	deny
-gotomypc	domain	goto.eu	deny
-gotomypc	domain	accounts.logme.in	deny
-gotomypc	domain	internap.net	deny
-gotomypc	domain	internapcdn.net	deny
-gotomypc	domain	gotomypc.com	deny
-gotomypc	ip	216.115.208.0/20	deny
-gotomypc	ip	216.219.112.0/20	deny
-gotomypc	ip	66.151.158.0/24	deny
-gotomypc	ip	202.173.24.0/21	deny
-gotomypc	ip	67.217.64.0/21	deny
-gotomypc	ip	78.108.112.0/20	deny
-gotomypc	ip	68.64.0.0/19	deny
-gotomypc	ip	206.183.100.0/22	deny
-gotomypc	ip	173.199.0.0/18	deny
-gotomypc	ip	180.153.30.0/23	deny
-gotomypc	ip	216.219.114.0/23	deny
-gotomypc	ip	3.115.40.4	deny
-gotomypc	ip	3.115.108.206	deny
-gotomypc	ip	3.115.71.78	deny
-gotomypc	ip	67.217.93.192/28	deny
-gotomypc	ip	67.217.93.208/28	deny
-gotomypc	ip	23.239.230.192/28	deny
-gotomypc	ip	173.199.10.208/28	deny
-gotomypc	ip	173.199.10.192/28	deny
-gotomypc	ip	3.1.0.0/16	deny
-gotomypc	ip	13.126.149.36	deny
-gotomypc	ip	15.207.0.0/16	deny
-gotomypc	ip	52.64.0.0/16	deny
-gotomypc	ip	3.115.0.0/16	deny
-gotomypc	ip	23.239.230.205	deny
-gotomypc	ip	23.239.230.214	deny
-gotomypc	ip	23.239.230.206	deny
-gotomypc	ip	173.199.10.195	deny
-imintouch	domain	imintouch.01com.com	deny
-imintouch	domain	locator.01com.com	deny
-imintouch	domain	imintouch.com	deny
-imintouch	domain	01com.com	deny
-imintouch	domain	01ftp.01com.com	deny
-iperiusremote	domain	iperiusremote.com	deny
-jumpdesktop	domain	neuron.jumpdesktop.com	deny
-jumpdesktop	domain	api.jumpdesktop.com	deny
-jumpdesktop	domain	app.jumpdesktop.com	deny
-jumpdesktop	domain	mirror.jumpdesktop.com	deny
-jumpdesktop	domain	turn.jumpdesktop.com	deny
-jumpdesktop	domain	beta-neuron.jumpdesktop.com	deny
-jumpdesktop	domain	beta-api.jumpdesktop.com	deny
-jumpdesktop	domain	jumpdesktop.com	deny
-litemanager	domain	litemanager.com	deny
-logmein	domain	accounts.logme.in	deny
-logmein	domain	filestackapi.com	deny
-logmein	domain	app.goto.com	deny
-logmein	domain	cdngetgo.com	deny
-logmein	domain	expertcity.com	deny
-logmein	domain	getgo.com	deny
-logmein	domain	getgocdn.com	deny
-logmein	domain	getgoservices.com	deny
-logmein	domain	getgoservices.net	deny
-logmein	domain	goto.com	deny
-logmein	domain	goto.eu	deny
-logmein	domain	gotoinc.com	deny
-logmein	domain	goto-rtc.com	deny
-logmein	domain	internap.net	deny
-logmein	domain	internapcdn.net	deny
-logmein	domain	logmein.com	deny
-logmein	domain	logmeininc.com	deny
-logmein	domain	logmein.eu	deny
-logmeinpro	domain	logmeinusercontent.com	deny
-gotoconnect	domain	hvoice.net	deny
-gotoconnect	domain	jive.com	deny
-gotoconnect	domain	jmp.tw	deny
-gotoconnect	domain	onjive.com	deny
-gotoconnect	domain	rtcprov.net	deny
-gotoconnect	domain	meet.goto.com	deny
-gotoconnect	domain	goto-desktop.s3.amazonaws.com	deny
-gotomeeting	domain	gotomeet.at	deny
-gotomeeting	domain	gotomeet.me	deny
-gotomeeting	domain	gotomeeting.com	deny
-gotomeeting	domain	openvoice.com	deny
-gotomeeting	domain	gofastchat.com	deny
-gotomeeting	domain	builds.cdn.goto.com	deny
-gotomeeting	domain	builds.cdn.getgo.com	deny
-gotomeeting	domain	launch.getgo.com	deny
-gotomeeting	domain	meet.goto.com	deny
-gotomeeting	domain	goto-desktop.s3.amazonaws.com	deny
-gotoroom	domain	gotoconference.com	deny
-gotoroom	domain	gotoroom.com	deny
-gotoroom	domain	jive.com	deny
-gotoroom	domain	jiveip.net	deny
-gotoroom	domain	jmp.tw	deny
-gotowebinar	domain	gotowebinar.com	deny
-gotowebinar	domain	joinwebinar.com	deny
-gotowebinar	domain	webinar.com	deny
-gotowebinar	domain	gotostage.com	deny
-gotowebinar	domain	cdn.walkme.com	deny
-gotowebinar	domain	gofastchat.com	deny
-gotowebinar	domain	builds.cdn.goto.com	deny
-gotowebinar	domain	builds.cdn.getgo.com	deny
-gotowebinar	domain	launch.getgo.com	deny
-gotowebinar	domain	meet.goto.com	deny
-gotowebinar	domain	goto-desktop.s3.amazonaws.com	deny
-gototraining	domain	gototraining.com	deny
-gototraining	domain	jointraining.com	deny
-gototraining	domain	cdn.walkme.com	deny
-gototraining	domain	gofastchat.com	deny
-joinme	domain	join.me	deny
-joinme	domain	logme.in	deny
-logmeinrescue	domain	logmein.com	deny
-logmeinrescue	domain	logmein.eu	deny
-logmeinrescue	domain	logmeinrescue.com	deny
-logmeinrescue	domain	logmeinrescue.eu	deny
-logmeinrescue	domain	logmeinrescue-enterprise.com	deny
-logmeinrescue	domain	logmeinrescue-enterprise.eu	deny
-logmeinrescue	domain	logmein-gateway.com	deny
-logmeinrescue	domain	internap.net	deny
-logmeinrescue	domain	internapcdn.net	deny
-logmeinrescue	domain	logmein123.com	deny
-logmeinrescue	domain	logmein123.eu	deny
-logmeinrescue	domain	123rescue.com	deny
-logmeinrescue	domain	support.me	deny
-logmeinrescue	domain	rescuemobile.com	deny
-logmeinrescue	domain	rescuemobile.eu	deny
-logmeinrescue	domain	oty.com	deny
-logmeinrescue	domain	remoteview.logmein.com	deny
-logmeinrescue	domain	turn.console.gotoassist.com	deny
-logmeinrescue	ip	216.115.208.0/20	deny
-logmeinrescue	ip	216.219.112.0/20	deny
-logmeinrescue	ip	67.217.64.0/21	deny
-logmeinrescue	ip	173.199.0.0/18	deny
-logmeinrescue	ip	206.183.100.0/22	deny
-logmeinrescue	ip	68.64.0.0/19	deny
-logmeinrescue	ip	23.239.224.0/19	deny
-logmeinrescue	ip	158.120.16.0/20	deny
-logmeinrescue	ip	202.173.24.0/21	deny
-logmeinrescue	ip	78.108.112.0/20	deny
-logmeinrescue	ip	185.36.20.0/22	deny
-logmeinrescue	ip	188.66.40.0/21	deny
-logmeinrescue	ip	45.12.196.0/22	deny
-logmeinrescue	ip	162.250.60.0/22	deny
-logmeinrescue	ip	199.36.248.0/22	deny
-logmeinrescue	ip	199.87.120.0/22	deny
-logmeinrescue	ip	103.15.16.0/22	deny
-logmeinrescue	ip	64.74.18.0/23	deny
-logmeinrescue	ip	64.74.103.0/24	deny
-logmeinrescue	ip	64.94.18.0/24	deny
-logmeinrescue	ip	64.94.46.0/24	deny
-logmeinrescue	ip	64.95.128.0/23	deny
-logmeinrescue	ip	66.150.108.0/24	deny
-logmeinrescue	ip	69.25.247.0/24	deny
-logmeinrescue	ip	69.25.20.0/23	deny
-logmeinrescue	ip	95.172.70.0/24	deny
-logmeinrescue	ip	111.221.57.0/24	deny
-gotoresolve	domain	gotoresolve.com	deny
-gotoresolve	domain	console.gotoresolve.com	deny
-gotoresolve	domain	turn.gotoresolve.com	deny
-gotoresolve	domain	devices-iot.console.gotoresolve.com	deny
-gotoresolve	domain	remoteview.logmein.com	deny
-gotoresolve	domain	gotoassist.com	deny
-gotoresolve	domain	turn.console.gotoassist.com	deny
-gotoresolve	domain	helpdesk.me	deny
-gotoresolve	domain	authentication.logmeininc.com	deny
-gotoresolve	domain	avatars.servers.getgo.com	deny
-gotoresolve	domain	remoteview.logmein.eu	deny
-gotoresolve	domain	dumpster.console.gotoassist.eu	deny
-gotoresolve	domain	dumpster.console.logmeinrescue.com	deny
-gotoresolve	domain	mdm.gotoresolve.com	deny
-gotoresolve	domain	join.gotoresolve.com	deny
-gotoresolve	domain	services.gotoresolve.com	deny
-gotoresolve	domain	sessions.gotoresolve.com	deny
-gotoassist	domain	goto.com	deny
-gotoassist	domain	getgo.com	deny
-gotoassist	domain	logmein.com	deny
-gotoassist	domain	logmeininc.com	deny
-gotoassist	domain	gotoassist.com	deny
-gotoassist	domain	fastsupport.com	deny
-gotoassist	domain	helpme.net	deny
-gotoassist	domain	expertcity.com	deny
-gotoassist	domain	cdn.goto.com	deny
-gotoassist	domain	cdn.getgo.com	deny
-gotoassist	domain	getgo.com	deny
-gotoassist	domain	tokbox.com	deny
-gotoassist	domain	static.opentok.com	deny
-gotoassist	domain	enterprise.opentok.com	deny
-gotoassist	domain	api.opentok.com	deny
-gotoassist	domain	anvil.opentok.com	deny
-gotoassist	domain	hlg.tokbox.com	deny
-gotoassist	domain	gotoassist.me	deny
-gotoassist	domain	gotoassist.at	deny
-gotoassist	domain	gofastchat.com	deny
-gotoassist	domain	desktopstreaming.com	deny
-remotelyanywhere	domain	logmein.com	deny
-remotelyanywhere	domain	logmein.eu	deny
-remotelyanywhere	domain	logmeinusercontent.com	deny
-remotelyanywhere	domain	browse.logmeinusercontent.com	deny
-remotelyanywhere	domain	logmeinrescue.com	deny
-remotelyanywhere	domain	logmeinrescue.eu	deny
-remotelyanywhere	domain	logmeinrescue-enterprise.com	deny
-remotelyanywhere	domain	logmein-gateway.com	deny
-remotelyanywhere	domain	accounts.logme.in	deny
-remotelyanywhere	domain	hamachi.cc	deny
-remotelyanywhere	domain	internap.net	deny
-remotelyanywhere	domain	internapcdn.net	deny
-remotelyanywhere	domain	logmein123.com	deny
-remotelyanywhere	domain	logmein123.eu	deny
-remotelyanywhere	domain	support.me	deny
-remotelyanywhere	domain	join.me	deny
-remotelyanywhere	domain	logmeininc.com	deny
-remotelyanywhere	domain	authentication.logmeininc.com	deny
-logmeincentral	domain	logmein.com	deny
-logmeincentral	domain	logmein.eu	deny
-logmeincentral	domain	logmeinusercontent.com	deny
-logmeincentral	domain	browse.logmeinusercontent.com	deny
-logmeincentral	domain	logmeinrescue.com	deny
-logmeincentral	domain	logmeinrescue.eu	deny
-logmeincentral	domain	logmeinrescue-enterprise.com	deny
-logmeincentral	domain	logmein-gateway.com	deny
-logmeincentral	domain	accounts.logme.in	deny
-logmeincentral	domain	hamachi.cc	deny
-logmeincentral	domain	internap.net	deny
-logmeincentral	domain	internapcdn.net	deny
-logmeincentral	domain	logmein123.com	deny
-logmeincentral	domain	logmein123.eu	deny
-logmeincentral	domain	support.me	deny
-logmeincentral	domain	join.me	deny
-logmeincentral	domain	logmeininc.com	deny
-logmeincentral	domain	authentication.logmeininc.com	deny
-logmeinhamachi	domain	logmein.com	deny
-logmeinhamachi	domain	logmein.eu	deny
-logmeinhamachi	domain	logmeinusercontent.com	deny
-logmeinhamachi	domain	browse.logmeinusercontent.com	deny
-logmeinhamachi	domain	logmeinrescue.com	deny
-logmeinhamachi	domain	logmeinrescue.eu	deny
-logmeinhamachi	domain	logmeinrescue-enterprise.com	deny
-logmeinhamachi	domain	logmein-gateway.com	deny
-logmeinhamachi	domain	accounts.logme.in	deny
-logmeinhamachi	domain	hamachi.cc	deny
-logmeinhamachi	domain	internap.net	deny
-logmeinhamachi	domain	internapcdn.net	deny
-logmeinhamachi	domain	logmein123.com	deny
-logmeinhamachi	domain	logmein123.eu	deny
-logmeinhamachi	domain	support.me	deny
-logmeinhamachi	domain	join.me	deny
-logmeinhamachi	domain	logmeininc.com	deny
-logmeinhamachi	domain	authentication.logmeininc.com	deny
-mikogo	domain	mikogo.com	deny
-mikogo	domain	mikogo4.com	deny
-mikogo	domain	real-time-collaboration.com	deny
-mikogo	ip	95.51.188.64/26	deny
-mikogo	ip	95.130.249.0/26	deny
-mikogo	ip	95.130.249.64/27	deny
-msp360	domain	cloudberrylab.com	deny
-msp360	domain	msp360.com	deny
-msp360	ip	52.5.40.159	deny
-msp360	ip	54.243.221.133	deny
-msp360	ip	52.20.40.101	deny
-msp360	ip	52.6.7.137	deny
-msp360	ip	3.216.171.162	deny
-msp360	ip	3.216.236.203	deny
-msp360	ip	18.197.126.202	deny
-msp360	ip	18.216.238.135	deny
-msp360	ip	13.236.247.175	deny
-myworkdrive	domain	myworkdrive.net	deny
-myworkdrive	domain	licensing.wanpath.net	deny
-myworkdrive	domain	wanpath.net	deny
-myworkdrive	domain	wp-onedrive-api.wanpath.net	deny
-classroomcloud	domain	portal.classroom.cloud	deny
-classroomcloud	domain	portal-uksouth.classroom.cloud	deny
-classroomcloud	domain	portal-eastus.classroom.cloud	deny
-classroomcloud	domain	portal-westus.classroom.cloud	deny
-		portal-germanywestcentral.classroom.cloud	deny
-classroomcloud	domain	authentication.classroom.cloud	deny
-classroomcloud	domain	authentication-uksouth.classroom.cloud	deny
-classroomcloud	domain	authentication-eastus.classroom.cloud	deny
-classroomcloud	domain	authentication-westus.classroom.cloud	deny
-classroomcloud	domain	authentication-germanywestcentral.classroom.cloud	deny
-classroomcloud	domain	gw01pri01-uksouth.classroom.cloud	deny
-classroomcloud	domain	gw01sec01-uksouth.classroom.cloud	deny
-classroomcloud	domain	gw01mem01-uksouth.classroom.cloud	deny
-classroomcloud	domain	gw01pri01-eastus.classroom.cloud	deny
-classroomcloud	domain	gw01sec01-eastus.classroom.cloud	deny
-classroomcloud	domain	gw01mem01-eastus.classroom.cloud	deny
-classroomcloud	domain	gw01pri01-westus.classroom.cloud	deny
-classroomcloud	domain	gw01sec01-westus.classroom.cloud	deny
-classroomcloud	domain	gw01mem01-westus.classroom.cloud	deny
-classroomcloud	domain	gw01pri01-germanywestcentral.classroom.cloud	deny
-classroomcloud	domain	gw01sec01-germanywestcentral.classroom.cloud	deny
-classroomcloud	domain	gw01mem01-germanywestcentral.classroom.cloud	deny
-classroomcloud	domain	tutor.classroom.cloud	deny
-classroomcloud	domain	tutor-uksouth.classroom.cloud	deny
-classroomcloud	domain	tutor-eastus.classroom.cloud	deny
-classroomcloud	domain	tutor-westus.classroom.cloud	deny
-classroomcloud	domain	tutor-germanywestcentral.classroom.cloud	deny
-classroomcloud	domain	student-uksouth.classroom.cloud	deny
-classroomcloud	domain	student-eastus.classroom.cloud	deny
-classroomcloud	domain	student-westus.classroom.cloud	deny
-classroomcloud	domain	student-germanywestcentral.classroom.cloud	deny
-classroomcloud	domain	monitoring-uksouth.classroom.cloud	deny
-classroomcloud	domain	monitoring-eastus.classroom.cloud	deny
-classroomcloud	domain	monitoring-westus.classroom.cloud	deny
-classroomcloud	domain	monitoring-germanywestcentral.classroom.cloud	deny
-classroomcloud	domain	signal-uksouth.classroom.cloud	deny
-classroomcloud	domain	signal-eastus.classroom.cloud	deny
-classroomcloud	domain	signal-westus.classroom.cloud	deny
-classroomcloud	domain	signal-germanywestcentral.classroom.cloud	deny
-classroomcloud	domain	turn-uksouth.classroom.cloud	deny
-classroomcloud	domain	turn1-uksouth.classroom.cloud	deny
-classroomcloud	domain	turn2-uksouth.classroom.cloud	deny
-classroomcloud	domain	turn-eastus.classroom.cloud	deny
-classroomcloud	domain	turn1-eastus.classroom.cloud	deny
-classroomcloud	domain	turn2-eastus.classroom.cloud	deny
-classroomcloud	domain	turn-westus.classroom.cloud	deny
-classroomcloud	domain	turn1-westus.classroom.cloud	deny
-classroomcloud	domain	turn2-westus.classroom.cloud	deny
-classroomcloud	domain	turn-germanywestcentral.classroom.cloud	deny
-classroomcloud	domain	turn1-germanywestcentral.classroom.cloud	deny
-classroomcloud	domain	turn2-germanywestcentral.classroom.cloud	deny
-classroomcloud	ip	51.132.157.37	deny
-classroomcloud	ip	20.0.192.46	deny
-classroomcloud	ip	52.142.32.132	deny
-classroomcloud	ip	40.71.235.83	deny
-classroomcloud	ip	13.83.95.105	deny
-classroomcloud	ip	13.83.48.11	deny
-classroomcloud	ip	20.218.96.181	deny
-classroomcloud	ip	20.113.141.222	deny
-classroomcloud	domain	api.classroom.cloud	deny
-classroomcloud	domain	api-uksouth.classroom.cloud	deny
-classroomcloud	domain	api-eastus.classroom.cloud	deny
-classroomcloud	domain	api-westus.classroom.cloud	deny
-classroomcloud	domain	api-germanywestcentral.classroom.cloud	deny
-classroomcloud	domain	apiinternal-uksouth.classroom.cloud	deny
-classroomcloud	domain	apiinternal-eastus.classroom.cloud	deny
-classroomcloud	domain	apiinternal-westus.classroom.cloud	deny
-classroomcloud	domain	apiinternal-germanywestcentral.classroom.cloud	deny
-classroomcloud	domain	safeguardingapi-uksouth.classroom.cloud	deny
-classroomcloud	domain	safeguardingapi-eastus.classroom.cloud	deny
-classroomcloud	domain	safeguardingapi-westus.classroom.cloud	deny
-classroomcloud	domain	safeguarding-germanywestcentral.classroom.cloud	deny
-classroomcloud	domain	teamsapi-uksouth.classroom.cloud	deny
-classroomcloud	domain	teamsapi-eastus.classroom.cloud	deny
-classroomcloud	domain	teamsapi-westus.classroom.cloud	deny
-classroomcloud	domain	teamsapi-germanywestcentral.classroom.cloud	deny
-classroomcloud	domain	functions-uksouth.classroom.cloud	deny
-classroomcloud	domain	functions-eastus.classroom.cloud	deny
-classroomcloud	domain	functions-westus.classroom.cloud	deny
-classroomcloud	domain	functions-germanywestcentral.classroom.cloud	deny
-classroomcloud	domain	tenantmanager.classroom.cloud	deny
-classroomcloud	domain	tenantmanager-uksouth.classroom.cloud	deny
-classroomcloud	domain	tenantmanager-eastus.classroom.cloud	deny
-classroomcloud	domain	tenantmanager-westus.classroom.cloud	deny
-classroomcloud	domain	tenantmanager-germanywestcentral.classroom.cloud	deny
-nomachine	domain	nomachine.com	deny
-parsec	domain	parsec.app	deny
-parsec	domain	kessel-ws.parsec.app	deny
-parsec	domain	kessel-api.parsec.app	deny
-parsec	domain	builds.parsec.app	deny
-parsec	domain	builds.parsecgaming.com	deny
-parsec	domain	parsecgaming.com	deny
-parsec	domain	public.parsec.app	deny
-parsec	domain	parsecusercontent.com	deny
-parsec	domain	stun.parsec.app	deny
-parsec	domain	stun6.parsec.app	deny
-pcduo	domain	vector-networks.com	deny
-realvnc	domain	realvnc.com	deny
-realvnc	domain	downloads.realvnc.com	deny
-realvnc	domain	services.vnc.com	deny
-realvnc	domain	vnc.com	deny
-realvnc	ip	146.101.60.86	deny
-realvnc	ip	146.101.60.69	deny
-realvnc	ip	212.119.29.178	deny
-realvnc	ip	165.254.191.246	deny
-realvnc	ip	165.254.191.230	deny
-realvnc	ip	212.119.29.179	deny
-realvnc	ip	165.254.191.247	deny
-realvnc	ip	165.254.191.231	deny
-realvnc	ip	212.119.29.177	deny
-realvnc	ip	165.254.191.245	deny
-realvnc	ip	165.254.191.229	deny
-realvnc	ip	212.119.29.128/28	deny
-realvnc	ip	165.254.239.128/28	deny
-realvnc	ip	165.254.191.192/28	deny
-remotetopc	domain	remotetopc.com	deny
-remotetopc	domain	remotepc.com	deny
-rustdesk	domain	rustdesk.com	deny
-setme	domain	set.me	deny
-setme	ip	54.172.223.118	deny
-splashtop	domain	splashtop.com	deny
-splashtop	domain	splashtop.eu	deny
-splashtop	domain	api.splashtop.com	deny
-splashtop	domain	api.splashtop.eu	deny
-splashtop	domain	relay.splashtop.com	deny
-splashtop	domain	sn.splashtop.com	deny
-splashtop	domain	update.splashtop.com	deny
-splashtop	domain	update-g3.splashtop.com	deny
-trugrid	domain	trugrid.com	deny
-trugrid	domain	trugrid.net	deny
-trugrid	domain	secureworkspace.io	deny
-trugrid	domain	ws.trugrid.com	deny
-trugrid	domain	app.trugrid.com	deny
-techinline	domain	techinline.com	deny
-techinline	domain	fixme.it	deny
-techinline	domain	techinline.net	deny
-veyon	domain	veyon.io	deny
-auvik	domain	my.auvik.com	deny
-auvik	domain	auvik.com	deny
-domotz	domain	portal.domotz.com	deny
-domotz	domain	echo.domotz.com	deny
-domotz	domain	domotz.com	deny
-domotz	domain	domotz.co	deny
-domotz	domain	api-us-east-cell-1.domotz.com	deny
-domotz	domain	messaging-us-east-1-cell-1.domotz.com	deny
-domotz	domain	us-east-1-sshg.domotz.co	deny
-domotz	domain	us-east-1-020sshg.domotz.co	deny
-domotz	domain	us-west-2-sshg.domotz.co	deny
-domotz	domain	api-eu-west-1-cell-1.domotz.com	deny
-domotz	domain	messaging-eu-west-1-cell-1.domotz.com	deny
-domotz	domain	sshg.domotz.co	deny
-domotz	domain	ap-southeast-2-sshg.domotz.co	deny
-domotz	domain	provisioning.domotz.com	deny
-domotz	domain	messaging.orchestration.domotz.com	deny
-domotz	domain	api.orchestration.domotz.com	deny
-teamviewer	domain	teamviewer.com	allow
-teamviewer	domain	frontlineworker.com	allow
+Tool,EntryType,Data,Action
+ninja,domain,ninjarmm.com,allow
+ninja,domain,ninjarmm.net,allow
+ninja,domain,rmmservice.com,allow
+ninja,domain,ninjauploads.s2.amazonaws.com,allow
+ninja,domain,ingest.sentry.io,allow
+ninja,domain,rmmservice.eu,allow
+ninja,domain,rmmservice.com.au,allow
+ninja,domain,rmmservice.ca,allow
+ninja,domain,ninja-backup.com,allow
+ninja,domain,lumension.com,allow
+ninja,domain,patchlinksecure.net,allow
+ninja,domain,cloudfront.net,allow
+ninja,domain,heatsoftware.com,allow
+ninja,ip,18.184.54.189,allow
+ninja,ip,52.29.101.137,allow
+ninja,ip,18.195.227.137,allow
+ninja,ip,3.96.93.233,allow
+ninja,ip,15.222.153.112,allow
+ninja,ip,35.182.169.43,allow
+ninja,ip,35.163.67.164,allow
+ninja,ip,34.212.188.161,allow
+ninja,ip,52.33.253.235,allow
+ninja,ip,13.58.90.12,allow
+ninja,ip,3.132.16.202,allow
+ninja,ip,3.135.5.97,allow
+ninja,ip,3.104.128.66,allow
+ninja,ip,3.104.240.36,allow
+ninja,ip,54.66.179.235,allow
+action1,domain,action1.com,deny
+action1,ip,54.210.188.13,deny
+action1,ip,54.227.102.112,deny
+action1,ip,3.210.54.212,deny
+action1,ip,3.213.90.174,deny
+action1,ip,3.74.63.86,deny
+action1,ip,3.124.175.10,deny
+action1,ip,34.203.184.16,deny
+action1,ip,44.212.254.73,deny
+action1,ip,52.200.246.160,deny
+action1,ip,52.205.66.134,deny
+action1,ip,100.24.103.37,deny
+action1,ip,3.229.22.34,deny
+action1,ip,3.88.244.142,deny
+action1,ip,54.144.130.130,deny
+action1,ip,18.135.32.225,deny
+action1,ip,18.169.144.48,deny
+action1,ip,3.10.103.241,deny
+action1,ip,13.41.182.0.33,deny
+action1,ip,35.179.20.122,deny
+action1,ip,43.204.118.97,deny
+action1,ip,43.204.185.8,deny
+action1,ip,13.202.109.24,deny
+action1,ip,43.205.156.38,deny
+action1,ip,13.215.147.78,deny
+action1,ip,54.169.182.56,deny
+action1,ip,3.0.4.167,deny
+action1,ip,13.213.228.50,deny
+action1,ip,13.211.73.202,deny
+action1,ip,54.79.23.166,deny
+action1,ip,3.104.236.56,deny
+action1,ip,54.79.198.20,deny
+action1,ip,15.229.170.56,deny
+action1,ip,18.230.233.136,deny
+action1,ip,18.231.231.56,deny
+action1,ip,54.207.116.27,deny
+action1,ip,18.159.245.29,deny
+action1,ip,18.195.232.61,deny
+action1,ip,52.29.164.59,deny
+action1,ip,13.238.191.59,deny
+action1,ip,13.55.204.40,deny
+action1,ip,3.104.0.1,deny
+action1,ip,3.105.163.243,deny
+action1,ip,us.remote.app.action1.com,deny
+action1,ip,eu.remote.app.action1.com,deny
+action1,ip,me.remote.app.action1.com,deny
+action1,ip,ea.remote.app.action1.com,deny
+action1,ip,au.remote.app.action1.com,deny
+action1,ip,sa.remote.app.action1.com,deny
+action1,ip,server.eu.action1.com,deny
+action1,ip,server.au.action1.com,deny
+action1,ip,a1-backend-packages.s3.amazonaws.com,deny
+action1,ip,us-cdn.action1.com,deny
+action1,ip,us-cdn-action1.com.b-cdn.net,deny
+atera,domain,atera.com,deny
+atera,domain,pubnub.com,deny
+atera,domain,pndsn.com,deny
+atera,domain,pubnubapi.com,deny
+atera,domain,atera-agent-heartbeat-cus.servicebus.windows.net,deny
+atera,domain,ticketingitemsstoreeu.blob.core.windows.net,deny
+atera,domain,a32dl55qcodeech-ats.iot.eu-west-1.amazonaws.com,deny
+anydesk,domain,anydesk.com,deny
+anydesk,domain,net.anydesk.com,deny
+anydesk,ip,239.255.102.18,deny
+bluetrait,domain,bluetrait.io,deny
+bluetrait,ip,103.24.132.0/23,deny
+bluetrait,ip,103.209.4.0/23,deny
+bluetrait,ip,14.200.218.138,deny
+cwautomate,domain,hostedrmm.com,deny
+cwrmm,domain,itsupport247.net,deny
+cwc,domain,screenconnect.com,deny
+logmein,domain,logmein.com,deny
+logmein,domain,internapcdn.net,deny
+datto,domain,centrastage.net,deny
+datto,domain,rmm.datto.com,deny
+gotoresolve,domain,gotoresolve.com,deny
+gotoresolve,domain,helpdesk.me,deny
+gotoresolve,domain,logmeininc.com,deny
+gotoresolve,domain,getgo.com,deny
+gotoresolve,domain,logmein.eu,deny
+gotoresolve,domain,segment.com,deny
+gotoresolve,domain,pendo.io,deny
+gotoresolve,domain,sentry-cnd.com,deny
+gotoresolve,domain,pusherapp.com,deny
+gotoresolve,domain,pusher.com,deny
+kaseyavsa,domain,sg.cloud.kaseya.net,deny
+level,domain,level.io,deny
+level,domain,agents.level.io,deny
+level,domain,builds.level.io,deny
+level,domain,downloads.level.io,deny
+mermmcentral,domain,patchquest.com,deny
+mermmcentral,domain,sync.patchquest.com,deny
+mermmcentral,domain,patchdb.manageengine.com,deny
+mermmcentral,domain,manageengine.com,deny
+zohoassist,domain,zoho.com,deny
+zohoassist,domain,zohoassist.com,deny
+msp360rmm,domain,mspbackups.com,deny
+msp360rmm,domain,msp360.com,deny
+msp360rmm,domain,cloudberrylab.com,deny
+msp360rmm,ip,52.5.40.159,deny
+msp360rmm,ip,54.243.221.133,deny
+msp360rmm,ip,52.20.40.101,deny
+msp360rmm,ip,52.6.7.137,deny
+msp360rmm,ip,3.216.171.162,deny
+msp360rmm,ip,3.216.236.203,deny
+msp360rmm,ip,18.197.126.202,deny
+msp360rmm,ip,13.236.247.175,deny
+nablensight,domain,dg5bj97jvb67q.cloudfront.net,deny
+nablensight,domain,remote.management,deny
+nablensight,domain,logicnow.com,deny
+nablensight,domain,logicnow.us,deny
+nablensight,domain,systemmonitor.eu.com,deny
+nablensight,domain,systemmonitor.co.uk,deny
+nablensight,domain,systemmonitor.us,deny
+nablensight,domain,rm-downloads.logicnow.com,deny
+nablensight,domain,rm-downloads-us.logicnow.com,deny
+nablensight,domain,rm-downloads-apac.logicnow.com,deny
+nablensight,domain,system-monitor.com,deny
+nablensight,domain,checks-api.us.system-monitor.com,deny
+nablensight,domain,checks-api.apac.system-monitor.com,deny
+nablensight,domain,checks-api.emea.system-monitor.com,deny
+nablensight,domain,cannonball-us-west-2-push.logicnow.us,deny
+nablensight,domain,cannonball-ap-southeast-2-push.logicnow.us,deny
+nablensight,domain,cannonball-eu-west-1-push.logicnow.us,deny
+nablensight,domain,anz-master.rbm.system-monitor.com,deny
+nablensight,domain,emea-master.rbm.system-monitor.com,deny
+nablensight,domain,us-master.rbm.system-monitor.com,deny
+nablensight,domain,dashboard.am.remote.management,deny
+nablensight,domain,dashboardasia.system-monitor.com,deny
+nablensight,domain,dashboard.system-monitor.com,deny
+nablensight,domain,dashboardeurope1.systemmonitor.eu.com,deny
+nablensight,domain,dashboardfrance1.systemmonitor.eu.com,deny
+nablensight,domain,dashboardfrance.systemmonitor.eu.com,deny
+nablensight,domain,dashboardgermany1.systemmonitor.eu.com,deny
+nablensight,domain,dashboardireland.systemmonitor.eu.com,deny
+nablensight,domain,dashboardpoland1.systemmonitor.eu.com,deny
+nablensight,domain,dashboard.systemmonitor.co.uk,deny
+nablensight,domain,dashboard.systemmonitor.us,deny
+nablensight,domain,navigatorlogin.com,deny
+nablensight,domain,avery-us-west-2-svc.logicnow.us,deny
+nablensight,domain,avery-us-west-2-cdn.logicnow.us,deny
+nablensight,domain,avery-ap-southeast-2-svc.logicnow.us,deny
+nablensight,domain,avery-ap-southeast-2-cdn.logicnow.us,deny
+nablensight,domain,avery-eu-west-1-svc.logicnow.us,deny
+nablensight,domain,avery-eu-west-1-cdn.logicnow.us,deny
+nablensight,domain,avery-eu-central-1-svc.logicnow.us,deny
+nablensight,domain,avery-eu-central-1-cdn.logicnow.us,deny
+nabletakecontrol,domain,smpa.n-able.com,deny
+nabletakecontrol,domain,swi-rc.cdn-sw.net,deny
+nablencentral,domain,send.n-able.com,deny
+nablencentral,domain,sis.n-able.com,deny
+nablencentral,domain,update.n-able.com,deny
+nablencentral,domain,feeds.n-able.com,deny
+nablencentral,domain,servermetrics.n-able.com,deny
+nablencentral,domain,licensing.n-able.com,deny
+nablencentral,domain,push.n-able.com,deny
+nablencentral,domain,scep.n-able.com,deny
+nablencentral,domain,keybox.n-able.com,deny
+nablencentral,domain,keybox.solarwindsmsp.com,deny
+nablencentral,domain,n-able.com,deny
+naverisk,domain,naverisk.com,deny
+optitune,domain,manage.opti-tune.com,deny
+optitune,domain,bravurasoftware.com,deny
+optitune,domain,startup.opti-tune.com,deny
+optitune,domain,opti-tune.com,deny
+panorama9,domain,trusted.panorama9.com,deny
+panorama9,domain,changes.panorama9.com,deny
+panorama9,domain,dashboard.panorama9.com,deny
+pulseway,domain,pulseway.com,deny
+pulseway,ip,69.65.50.9,deny
+pulseway,ip,69.65.50.11,deny
+pulseway,ip,69.65.50.13,deny
+pulseway,ip,69.65.50.15,deny
+pulseway,ip,69.65.50.20,deny
+pulseway,ip,69.65.50.21,deny
+pulseway,ip,69.65.50.22,deny
+pulseway,ip,69.65.50.23,deny
+pulseway,ip,69.65.50.4,deny
+pulseway,ip,69.65.50.5,deny
+pulseway,ip,69.65.50.6,deny
+pulseway,ip,69.65.47.163,deny
+pulseway,ip,69.65.47.165,deny
+pulseway,ip,109.233.52.232,deny
+pulseway,ip,109.233.52.231,deny
+pulsewayrd,ip,3.222.39.148,deny
+pulsewayrd,ip,13.237.174.172,deny
+pulsewayrd,ip,99.81.62.236,deny
+pulsewayrd,ip,18.185.3.44,deny
+pulsewayrd,ip,54.176.91.130,deny
+pulsewayrd,ip,3.135.44.68,deny
+superops,domain,superops.ai,deny
+syncro,domain,app.kabuto.io,deny
+syncro,domain,syncromsp.com,deny
+syncro,domain,syncroapi.com,deny
+syncro,domain,kabutoservices.com,deny
+syncro,domain,id.aurelius.host,deny
+syncro,domain,attachments.servably.com,deny
+synco,domain,rmm.syncromsp.com,deny
+splashtop,domain,api.splashtop.com,deny
+splashtop,domain,relay.splashtop.com,deny
+splashtop,domain,my.splashtop.com,deny
+splashtop,domain,splashtop.com,deny
+syxsense,domain,cloudmanagementsuite.com,deny
+syxsense,domain,verismic.blob.core.windows.net,deny
+syxsense,domain,syxsense.com,deny
+tacticalrmm,domain,tacticalrmm.io,deny
+tacticalrmm,domain,tacticalrmm.com,deny
+itarianrmm,ip,69.4.80.244,deny
+itarianrmm,ip,69.4.89.244,deny
+itarianrmm,ip,69.4.82.59,deny
+itarianrmm,ip,69.4.80.249,deny
+barracudarmm,domain,cudasvc.com,deny
+barracudarmm,domain,barracuda.com,deny
+barracudarmm,domain,cudaops.com,deny
+barracudarmm,domain,cuda-support.com,deny
+barracudarmm,domain,barracudanetworks.com,deny
+aeroadmin,domain,auth10.aeroadmin.com,deny
+aeroadmin,domain,auth20.aeroadmin.com,deny
+aeroadmin,domain,aeroadmin.com,deny
+aeroadmin,ip,89.40.115.70,deny
+aeroadmin,ip,193.124.45.101,deny
+aetherplan,domain,pandasecurity.com,deny
+aetherplan,domain,rc.pandasecurity.com,deny
+aetherplan,domain,pandasecurity.devo.com,deny
+aetherplan,domain,ctmail.com,deny
+aetherplan,domain,rp.cloud.threatseeker.com,deny
+aetherplan,ip,91.216.218.0/24,deny
+aetherplan,ip,52.156.252.193,deny
+aetherplan,ip,137.135.229.184,deny
+aetherplan,ip,84.39.157.9,deny
+aetherplan,ip,84.39.157.1,deny
+aetherplan,ip,216.163.188.45,deny
+aetherplan,ip,142.4.215.12,deny
+aetherplan,ip,51.91.126.6,deny
+aetherplan,ip,51.91.126.20,deny
+aetherplan,ip,54.38.188.203,deny
+aetherplan,ip,54.38.189.99,deny
+aetherplan,ip,51.77.149.216,deny
+aetherplan,ip,51.77.149.200,deny
+ammyyadmin,domain,ammyy.com,deny
+anyviewer,domain,anyviewer.com,deny
+avica,domain,avica.link,deny
+avica,domain,console.avica.link,deny
+awesun,domain,aweray.com,deny
+awesun,domain,sun.aweray.com,deny
+clonadesk,domain,clonadesk.com,deny
+distantdesktop,domain,distantdesktop.com,deny
+dwservice,domain,dwservice.net,deny
+fleetdeck,domain,fleetdeck.io,deny
+fleetdeck,domain,cognito-idp.us-west02.amazonaws.com,deny
+getscreenme,domain,getscreen.me,deny
+getscreenme,domain,updater.getscreen.me,deny
+glancecobrowse,domain,glance.net,deny
+glancecobrowse,domain,glancecdn.net,deny
+gotomypc,domain,filestackapi.com,deny
+gotomypc,domain,expertcity.com,deny
+gotomypc,domain,getgo.com,deny
+gotomypc,domain,getgocdn.com,deny
+gotomypc,domain,getgoservices.net,deny
+gotomypc,domain,getgoservices.com,deny
+gotomypc,domain,goto-rtc.com,deny
+gotomypc,domain,goto.com,deny
+gotomypc,domain,gotoinc.com,deny
+gotomypc,domain,gotoinc.eu,deny
+gotomypc,domain,goto.eu,deny
+gotomypc,domain,accounts.logme.in,deny
+gotomypc,domain,internap.net,deny
+gotomypc,domain,internapcdn.net,deny
+gotomypc,domain,gotomypc.com,deny
+gotomypc,ip,216.115.208.0/20,deny
+gotomypc,ip,216.219.112.0/20,deny
+gotomypc,ip,66.151.158.0/24,deny
+gotomypc,ip,202.173.24.0/21,deny
+gotomypc,ip,67.217.64.0/21,deny
+gotomypc,ip,78.108.112.0/20,deny
+gotomypc,ip,68.64.0.0/19,deny
+gotomypc,ip,206.183.100.0/22,deny
+gotomypc,ip,173.199.0.0/18,deny
+gotomypc,ip,180.153.30.0/23,deny
+gotomypc,ip,216.219.114.0/23,deny
+gotomypc,ip,3.115.40.4,deny
+gotomypc,ip,3.115.108.206,deny
+gotomypc,ip,3.115.71.78,deny
+gotomypc,ip,67.217.93.192/28,deny
+gotomypc,ip,67.217.93.208/28,deny
+gotomypc,ip,23.239.230.192/28,deny
+gotomypc,ip,173.199.10.208/28,deny
+gotomypc,ip,173.199.10.192/28,deny
+gotomypc,ip,3.1.0.0/16,deny
+gotomypc,ip,13.126.149.36,deny
+gotomypc,ip,15.207.0.0/16,deny
+gotomypc,ip,52.64.0.0/16,deny
+gotomypc,ip,3.115.0.0/16,deny
+gotomypc,ip,23.239.230.205,deny
+gotomypc,ip,23.239.230.214,deny
+gotomypc,ip,23.239.230.206,deny
+gotomypc,ip,173.199.10.195,deny
+imintouch,domain,imintouch.01com.com,deny
+imintouch,domain,locator.01com.com,deny
+imintouch,domain,imintouch.com,deny
+imintouch,domain,01com.com,deny
+imintouch,domain,01ftp.01com.com,deny
+iperiusremote,domain,iperiusremote.com,deny
+jumpdesktop,domain,neuron.jumpdesktop.com,deny
+jumpdesktop,domain,api.jumpdesktop.com,deny
+jumpdesktop,domain,app.jumpdesktop.com,deny
+jumpdesktop,domain,mirror.jumpdesktop.com,deny
+jumpdesktop,domain,turn.jumpdesktop.com,deny
+jumpdesktop,domain,beta-neuron.jumpdesktop.com,deny
+jumpdesktop,domain,beta-api.jumpdesktop.com,deny
+jumpdesktop,domain,jumpdesktop.com,deny
+litemanager,domain,litemanager.com,deny
+logmein,domain,accounts.logme.in,deny
+logmein,domain,filestackapi.com,deny
+logmein,domain,app.goto.com,deny
+logmein,domain,cdngetgo.com,deny
+logmein,domain,expertcity.com,deny
+logmein,domain,getgo.com,deny
+logmein,domain,getgocdn.com,deny
+logmein,domain,getgoservices.com,deny
+logmein,domain,getgoservices.net,deny
+logmein,domain,goto.com,deny
+logmein,domain,goto.eu,deny
+logmein,domain,gotoinc.com,deny
+logmein,domain,goto-rtc.com,deny
+logmein,domain,internap.net,deny
+logmein,domain,internapcdn.net,deny
+logmein,domain,logmein.com,deny
+logmein,domain,logmeininc.com,deny
+logmein,domain,logmein.eu,deny
+logmeinpro,domain,logmeinusercontent.com,deny
+gotoconnect,domain,hvoice.net,deny
+gotoconnect,domain,jive.com,deny
+gotoconnect,domain,jmp.tw,deny
+gotoconnect,domain,onjive.com,deny
+gotoconnect,domain,rtcprov.net,deny
+gotoconnect,domain,meet.goto.com,deny
+gotoconnect,domain,goto-desktop.s3.amazonaws.com,deny
+gotomeeting,domain,gotomeet.at,deny
+gotomeeting,domain,gotomeet.me,deny
+gotomeeting,domain,gotomeeting.com,deny
+gotomeeting,domain,openvoice.com,deny
+gotomeeting,domain,gofastchat.com,deny
+gotomeeting,domain,builds.cdn.goto.com,deny
+gotomeeting,domain,builds.cdn.getgo.com,deny
+gotomeeting,domain,launch.getgo.com,deny
+gotomeeting,domain,meet.goto.com,deny
+gotomeeting,domain,goto-desktop.s3.amazonaws.com,deny
+gotoroom,domain,gotoconference.com,deny
+gotoroom,domain,gotoroom.com,deny
+gotoroom,domain,jive.com,deny
+gotoroom,domain,jiveip.net,deny
+gotoroom,domain,jmp.tw,deny
+gotowebinar,domain,gotowebinar.com,deny
+gotowebinar,domain,joinwebinar.com,deny
+gotowebinar,domain,webinar.com,deny
+gotowebinar,domain,gotostage.com,deny
+gotowebinar,domain,cdn.walkme.com,deny
+gotowebinar,domain,gofastchat.com,deny
+gotowebinar,domain,builds.cdn.goto.com,deny
+gotowebinar,domain,builds.cdn.getgo.com,deny
+gotowebinar,domain,launch.getgo.com,deny
+gotowebinar,domain,meet.goto.com,deny
+gotowebinar,domain,goto-desktop.s3.amazonaws.com,deny
+gototraining,domain,gototraining.com,deny
+gototraining,domain,jointraining.com,deny
+gototraining,domain,cdn.walkme.com,deny
+gototraining,domain,gofastchat.com,deny
+joinme,domain,join.me,deny
+joinme,domain,logme.in,deny
+logmeinrescue,domain,logmein.com,deny
+logmeinrescue,domain,logmein.eu,deny
+logmeinrescue,domain,logmeinrescue.com,deny
+logmeinrescue,domain,logmeinrescue.eu,deny
+logmeinrescue,domain,logmeinrescue-enterprise.com,deny
+logmeinrescue,domain,logmeinrescue-enterprise.eu,deny
+logmeinrescue,domain,logmein-gateway.com,deny
+logmeinrescue,domain,internap.net,deny
+logmeinrescue,domain,internapcdn.net,deny
+logmeinrescue,domain,logmein123.com,deny
+logmeinrescue,domain,logmein123.eu,deny
+logmeinrescue,domain,123rescue.com,deny
+logmeinrescue,domain,support.me,deny
+logmeinrescue,domain,rescuemobile.com,deny
+logmeinrescue,domain,rescuemobile.eu,deny
+logmeinrescue,domain,oty.com,deny
+logmeinrescue,domain,remoteview.logmein.com,deny
+logmeinrescue,domain,turn.console.gotoassist.com,deny
+logmeinrescue,ip,216.115.208.0/20,deny
+logmeinrescue,ip,216.219.112.0/20,deny
+logmeinrescue,ip,67.217.64.0/21,deny
+logmeinrescue,ip,173.199.0.0/18,deny
+logmeinrescue,ip,206.183.100.0/22,deny
+logmeinrescue,ip,68.64.0.0/19,deny
+logmeinrescue,ip,23.239.224.0/19,deny
+logmeinrescue,ip,158.120.16.0/20,deny
+logmeinrescue,ip,202.173.24.0/21,deny
+logmeinrescue,ip,78.108.112.0/20,deny
+logmeinrescue,ip,185.36.20.0/22,deny
+logmeinrescue,ip,188.66.40.0/21,deny
+logmeinrescue,ip,45.12.196.0/22,deny
+logmeinrescue,ip,162.250.60.0/22,deny
+logmeinrescue,ip,199.36.248.0/22,deny
+logmeinrescue,ip,199.87.120.0/22,deny
+logmeinrescue,ip,103.15.16.0/22,deny
+logmeinrescue,ip,64.74.18.0/23,deny
+logmeinrescue,ip,64.74.103.0/24,deny
+logmeinrescue,ip,64.94.18.0/24,deny
+logmeinrescue,ip,64.94.46.0/24,deny
+logmeinrescue,ip,64.95.128.0/23,deny
+logmeinrescue,ip,66.150.108.0/24,deny
+logmeinrescue,ip,69.25.247.0/24,deny
+logmeinrescue,ip,69.25.20.0/23,deny
+logmeinrescue,ip,95.172.70.0/24,deny
+logmeinrescue,ip,111.221.57.0/24,deny
+gotoresolve,domain,gotoresolve.com,deny
+gotoresolve,domain,console.gotoresolve.com,deny
+gotoresolve,domain,turn.gotoresolve.com,deny
+gotoresolve,domain,devices-iot.console.gotoresolve.com,deny
+gotoresolve,domain,remoteview.logmein.com,deny
+gotoresolve,domain,gotoassist.com,deny
+gotoresolve,domain,turn.console.gotoassist.com,deny
+gotoresolve,domain,helpdesk.me,deny
+gotoresolve,domain,authentication.logmeininc.com,deny
+gotoresolve,domain,avatars.servers.getgo.com,deny
+gotoresolve,domain,remoteview.logmein.eu,deny
+gotoresolve,domain,dumpster.console.gotoassist.eu,deny
+gotoresolve,domain,dumpster.console.logmeinrescue.com,deny
+gotoresolve,domain,mdm.gotoresolve.com,deny
+gotoresolve,domain,join.gotoresolve.com,deny
+gotoresolve,domain,services.gotoresolve.com,deny
+gotoresolve,domain,sessions.gotoresolve.com,deny
+gotoassist,domain,goto.com,deny
+gotoassist,domain,getgo.com,deny
+gotoassist,domain,logmein.com,deny
+gotoassist,domain,logmeininc.com,deny
+gotoassist,domain,gotoassist.com,deny
+gotoassist,domain,fastsupport.com,deny
+gotoassist,domain,helpme.net,deny
+gotoassist,domain,expertcity.com,deny
+gotoassist,domain,cdn.goto.com,deny
+gotoassist,domain,cdn.getgo.com,deny
+gotoassist,domain,getgo.com,deny
+gotoassist,domain,tokbox.com,deny
+gotoassist,domain,static.opentok.com,deny
+gotoassist,domain,enterprise.opentok.com,deny
+gotoassist,domain,api.opentok.com,deny
+gotoassist,domain,anvil.opentok.com,deny
+gotoassist,domain,hlg.tokbox.com,deny
+gotoassist,domain,gotoassist.me,deny
+gotoassist,domain,gotoassist.at,deny
+gotoassist,domain,gofastchat.com,deny
+gotoassist,domain,desktopstreaming.com,deny
+remotelyanywhere,domain,logmein.com,deny
+remotelyanywhere,domain,logmein.eu,deny
+remotelyanywhere,domain,logmeinusercontent.com,deny
+remotelyanywhere,domain,browse.logmeinusercontent.com,deny
+remotelyanywhere,domain,logmeinrescue.com,deny
+remotelyanywhere,domain,logmeinrescue.eu,deny
+remotelyanywhere,domain,logmeinrescue-enterprise.com,deny
+remotelyanywhere,domain,logmein-gateway.com,deny
+remotelyanywhere,domain,accounts.logme.in,deny
+remotelyanywhere,domain,hamachi.cc,deny
+remotelyanywhere,domain,internap.net,deny
+remotelyanywhere,domain,internapcdn.net,deny
+remotelyanywhere,domain,logmein123.com,deny
+remotelyanywhere,domain,logmein123.eu,deny
+remotelyanywhere,domain,support.me,deny
+remotelyanywhere,domain,join.me,deny
+remotelyanywhere,domain,logmeininc.com,deny
+remotelyanywhere,domain,authentication.logmeininc.com,deny
+logmeincentral,domain,logmein.com,deny
+logmeincentral,domain,logmein.eu,deny
+logmeincentral,domain,logmeinusercontent.com,deny
+logmeincentral,domain,browse.logmeinusercontent.com,deny
+logmeincentral,domain,logmeinrescue.com,deny
+logmeincentral,domain,logmeinrescue.eu,deny
+logmeincentral,domain,logmeinrescue-enterprise.com,deny
+logmeincentral,domain,logmein-gateway.com,deny
+logmeincentral,domain,accounts.logme.in,deny
+logmeincentral,domain,hamachi.cc,deny
+logmeincentral,domain,internap.net,deny
+logmeincentral,domain,internapcdn.net,deny
+logmeincentral,domain,logmein123.com,deny
+logmeincentral,domain,logmein123.eu,deny
+logmeincentral,domain,support.me,deny
+logmeincentral,domain,join.me,deny
+logmeincentral,domain,logmeininc.com,deny
+logmeincentral,domain,authentication.logmeininc.com,deny
+logmeinhamachi,domain,logmein.com,deny
+logmeinhamachi,domain,logmein.eu,deny
+logmeinhamachi,domain,logmeinusercontent.com,deny
+logmeinhamachi,domain,browse.logmeinusercontent.com,deny
+logmeinhamachi,domain,logmeinrescue.com,deny
+logmeinhamachi,domain,logmeinrescue.eu,deny
+logmeinhamachi,domain,logmeinrescue-enterprise.com,deny
+logmeinhamachi,domain,logmein-gateway.com,deny
+logmeinhamachi,domain,accounts.logme.in,deny
+logmeinhamachi,domain,hamachi.cc,deny
+logmeinhamachi,domain,internap.net,deny
+logmeinhamachi,domain,internapcdn.net,deny
+logmeinhamachi,domain,logmein123.com,deny
+logmeinhamachi,domain,logmein123.eu,deny
+logmeinhamachi,domain,support.me,deny
+logmeinhamachi,domain,join.me,deny
+logmeinhamachi,domain,logmeininc.com,deny
+logmeinhamachi,domain,authentication.logmeininc.com,deny
+mikogo,domain,mikogo.com,deny
+mikogo,domain,mikogo4.com,deny
+mikogo,domain,real-time-collaboration.com,deny
+mikogo,ip,95.51.188.64/26,deny
+mikogo,ip,95.130.249.0/26,deny
+mikogo,ip,95.130.249.64/27,deny
+msp360,domain,cloudberrylab.com,deny
+msp360,domain,msp360.com,deny
+msp360,ip,52.5.40.159,deny
+msp360,ip,54.243.221.133,deny
+msp360,ip,52.20.40.101,deny
+msp360,ip,52.6.7.137,deny
+msp360,ip,3.216.171.162,deny
+msp360,ip,3.216.236.203,deny
+msp360,ip,18.197.126.202,deny
+msp360,ip,18.216.238.135,deny
+msp360,ip,13.236.247.175,deny
+myworkdrive,domain,myworkdrive.net,deny
+myworkdrive,domain,licensing.wanpath.net,deny
+myworkdrive,domain,wanpath.net,deny
+myworkdrive,domain,wp-onedrive-api.wanpath.net,deny
+classroomcloud,domain,portal.classroom.cloud,deny
+classroomcloud,domain,portal-uksouth.classroom.cloud,deny
+classroomcloud,domain,portal-eastus.classroom.cloud,deny
+classroomcloud,domain,portal-westus.classroom.cloud,deny
+classroomcloud,domain,portal-germanywestcentral.classroom.cloud,deny
+classroomcloud,domain,authentication.classroom.cloud,deny
+classroomcloud,domain,authentication-uksouth.classroom.cloud,deny
+classroomcloud,domain,authentication-eastus.classroom.cloud,deny
+classroomcloud,domain,authentication-westus.classroom.cloud,deny
+classroomcloud,domain,authentication-germanywestcentral.classroom.cloud,deny
+classroomcloud,domain,gw01pri01-uksouth.classroom.cloud,deny
+classroomcloud,domain,gw01sec01-uksouth.classroom.cloud,deny
+classroomcloud,domain,gw01mem01-uksouth.classroom.cloud,deny
+classroomcloud,domain,gw01pri01-eastus.classroom.cloud,deny
+classroomcloud,domain,gw01sec01-eastus.classroom.cloud,deny
+classroomcloud,domain,gw01mem01-eastus.classroom.cloud,deny
+classroomcloud,domain,gw01pri01-westus.classroom.cloud,deny
+classroomcloud,domain,gw01sec01-westus.classroom.cloud,deny
+classroomcloud,domain,gw01mem01-westus.classroom.cloud,deny
+classroomcloud,domain,gw01pri01-germanywestcentral.classroom.cloud,deny
+classroomcloud,domain,gw01sec01-germanywestcentral.classroom.cloud,deny
+classroomcloud,domain,gw01mem01-germanywestcentral.classroom.cloud,deny
+classroomcloud,domain,tutor.classroom.cloud,deny
+classroomcloud,domain,tutor-uksouth.classroom.cloud,deny
+classroomcloud,domain,tutor-eastus.classroom.cloud,deny
+classroomcloud,domain,tutor-westus.classroom.cloud,deny
+classroomcloud,domain,tutor-germanywestcentral.classroom.cloud,deny
+classroomcloud,domain,student-uksouth.classroom.cloud,deny
+classroomcloud,domain,student-eastus.classroom.cloud,deny
+classroomcloud,domain,student-westus.classroom.cloud,deny
+classroomcloud,domain,student-germanywestcentral.classroom.cloud,deny
+classroomcloud,domain,monitoring-uksouth.classroom.cloud,deny
+classroomcloud,domain,monitoring-eastus.classroom.cloud,deny
+classroomcloud,domain,monitoring-westus.classroom.cloud,deny
+classroomcloud,domain,monitoring-germanywestcentral.classroom.cloud,deny
+classroomcloud,domain,signal-uksouth.classroom.cloud,deny
+classroomcloud,domain,signal-eastus.classroom.cloud,deny
+classroomcloud,domain,signal-westus.classroom.cloud,deny
+classroomcloud,domain,signal-germanywestcentral.classroom.cloud,deny
+classroomcloud,domain,turn-uksouth.classroom.cloud,deny
+classroomcloud,domain,turn1-uksouth.classroom.cloud,deny
+classroomcloud,domain,turn2-uksouth.classroom.cloud,deny
+classroomcloud,domain,turn-eastus.classroom.cloud,deny
+classroomcloud,domain,turn1-eastus.classroom.cloud,deny
+classroomcloud,domain,turn2-eastus.classroom.cloud,deny
+classroomcloud,domain,turn-westus.classroom.cloud,deny
+classroomcloud,domain,turn1-westus.classroom.cloud,deny
+classroomcloud,domain,turn2-westus.classroom.cloud,deny
+classroomcloud,domain,turn-germanywestcentral.classroom.cloud,deny
+classroomcloud,domain,turn1-germanywestcentral.classroom.cloud,deny
+classroomcloud,domain,turn2-germanywestcentral.classroom.cloud,deny
+classroomcloud,ip,51.132.157.37,deny
+classroomcloud,ip,20.0.192.46,deny
+classroomcloud,ip,52.142.32.132,deny
+classroomcloud,ip,40.71.235.83,deny
+classroomcloud,ip,13.83.95.105,deny
+classroomcloud,ip,13.83.48.11,deny
+classroomcloud,ip,20.218.96.181,deny
+classroomcloud,ip,20.113.141.222,deny
+classroomcloud,domain,api.classroom.cloud,deny
+classroomcloud,domain,api-uksouth.classroom.cloud,deny
+classroomcloud,domain,api-eastus.classroom.cloud,deny
+classroomcloud,domain,api-westus.classroom.cloud,deny
+classroomcloud,domain,api-germanywestcentral.classroom.cloud,deny
+classroomcloud,domain,apiinternal-uksouth.classroom.cloud,deny
+classroomcloud,domain,apiinternal-eastus.classroom.cloud,deny
+classroomcloud,domain,apiinternal-westus.classroom.cloud,deny
+classroomcloud,domain,apiinternal-germanywestcentral.classroom.cloud,deny
+classroomcloud,domain,safeguardingapi-uksouth.classroom.cloud,deny
+classroomcloud,domain,safeguardingapi-eastus.classroom.cloud,deny
+classroomcloud,domain,safeguardingapi-westus.classroom.cloud,deny
+classroomcloud,domain,safeguarding-germanywestcentral.classroom.cloud,deny
+classroomcloud,domain,teamsapi-uksouth.classroom.cloud,deny
+classroomcloud,domain,teamsapi-eastus.classroom.cloud,deny
+classroomcloud,domain,teamsapi-westus.classroom.cloud,deny
+classroomcloud,domain,teamsapi-germanywestcentral.classroom.cloud,deny
+classroomcloud,domain,functions-uksouth.classroom.cloud,deny
+classroomcloud,domain,functions-eastus.classroom.cloud,deny
+classroomcloud,domain,functions-westus.classroom.cloud,deny
+classroomcloud,domain,functions-germanywestcentral.classroom.cloud,deny
+classroomcloud,domain,tenantmanager.classroom.cloud,deny
+classroomcloud,domain,tenantmanager-uksouth.classroom.cloud,deny
+classroomcloud,domain,tenantmanager-eastus.classroom.cloud,deny
+classroomcloud,domain,tenantmanager-westus.classroom.cloud,deny
+classroomcloud,domain,tenantmanager-germanywestcentral.classroom.cloud,deny
+nomachine,domain,nomachine.com,deny
+parsec,domain,parsec.app,deny
+parsec,domain,kessel-ws.parsec.app,deny
+parsec,domain,kessel-api.parsec.app,deny
+parsec,domain,builds.parsec.app,deny
+parsec,domain,builds.parsecgaming.com,deny
+parsec,domain,parsecgaming.com,deny
+parsec,domain,public.parsec.app,deny
+parsec,domain,parsecusercontent.com,deny
+parsec,domain,stun.parsec.app,deny
+parsec,domain,stun6.parsec.app,deny
+pcduo,domain,vector-networks.com,deny
+realvnc,domain,realvnc.com,deny
+realvnc,domain,downloads.realvnc.com,deny
+realvnc,domain,services.vnc.com,deny
+realvnc,domain,vnc.com,deny
+realvnc,ip,146.101.60.86,deny
+realvnc,ip,146.101.60.69,deny
+realvnc,ip,212.119.29.178,deny
+realvnc,ip,165.254.191.246,deny
+realvnc,ip,165.254.191.230,deny
+realvnc,ip,212.119.29.179,deny
+realvnc,ip,165.254.191.247,deny
+realvnc,ip,165.254.191.231,deny
+realvnc,ip,212.119.29.177,deny
+realvnc,ip,165.254.191.245,deny
+realvnc,ip,165.254.191.229,deny
+realvnc,ip,212.119.29.128/28,deny
+realvnc,ip,165.254.239.128/28,deny
+realvnc,ip,165.254.191.192/28,deny
+remotetopc,domain,remotetopc.com,deny
+remotetopc,domain,remotepc.com,deny
+rustdesk,domain,rustdesk.com,deny
+setme,domain,set.me,deny
+setme,ip,54.172.223.118,deny
+splashtop,domain,splashtop.com,deny
+splashtop,domain,splashtop.eu,deny
+splashtop,domain,api.splashtop.com,deny
+splashtop,domain,api.splashtop.eu,deny
+splashtop,domain,relay.splashtop.com,deny
+splashtop,domain,sn.splashtop.com,deny
+splashtop,domain,update.splashtop.com,deny
+splashtop,domain,update-g3.splashtop.com,deny
+trugrid,domain,trugrid.com,deny
+trugrid,domain,trugrid.net,deny
+trugrid,domain,secureworkspace.io,deny
+trugrid,domain,ws.trugrid.com,deny
+trugrid,domain,app.trugrid.com,deny
+techinline,domain,techinline.com,deny
+techinline,domain,fixme.it,deny
+techinline,domain,techinline.net,deny
+veyon,domain,veyon.io,deny
+auvik,domain,my.auvik.com,deny
+auvik,domain,auvik.com,deny
+domotz,domain,portal.domotz.com,deny
+domotz,domain,echo.domotz.com,deny
+domotz,domain,domotz.com,deny
+domotz,domain,domotz.co,deny
+domotz,domain,api-us-east-cell-1.domotz.com,deny
+domotz,domain,messaging-us-east-1-cell-1.domotz.com,deny
+domotz,domain,us-east-1-sshg.domotz.co,deny
+domotz,domain,us-east-1-020sshg.domotz.co,deny
+domotz,domain,us-west-2-sshg.domotz.co,deny
+domotz,domain,api-eu-west-1-cell-1.domotz.com,deny
+domotz,domain,messaging-eu-west-1-cell-1.domotz.com,deny
+domotz,domain,sshg.domotz.co,deny
+domotz,domain,ap-southeast-2-sshg.domotz.co,deny
+domotz,domain,provisioning.domotz.com,deny
+domotz,domain,messaging.orchestration.domotz.com,deny
+domotz,domain,api.orchestration.domotz.com,deny
+teamviewer,domain,teamviewer.com,allow
+teamviewer,domain,frontlineworker.com,allow
