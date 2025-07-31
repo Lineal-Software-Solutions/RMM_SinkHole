@@ -558,6 +558,14 @@ pulsewayrd,ip,99.81.62.236,deny
 pulsewayrd,ip,18.185.3.44,deny
 pulsewayrd,ip,54.176.91.130,deny
 pulsewayrd,ip,3.135.44.68,deny
+pulsewayrd,ip,54.156.7.176,deny
+pulsewayrd,ip,52.8.252.8,deny
+pulsewayrd,ip,52.15.69.23,deny
+pulsewayrd,ip,52.210.1.29,deny
+pulsewayrd,ip,3.74.64.214,deny
+pulsewayrd,ip,54.253.239.171,deny
+pulsewayrd,ip,13.245.98.81,deny
+pulsewayrd,ip,13.246.68.177,deny
 superops,domain,superops.ai,deny
 syncro,domain,app.kabuto.io,deny
 syncro,domain,syncromsp.com,deny
