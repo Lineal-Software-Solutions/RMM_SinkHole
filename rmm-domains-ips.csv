@@ -594,6 +594,16 @@ syncro,domain,kabutoservices.com,deny
 syncro,domain,id.aurelius.host,deny
 syncro,domain,attachments.servably.com,deny
 synco,domain,rmm.syncromsp.com,deny
+synco,domain,background.syncromsp.com,deny
+synco,domain,chat-chat.syncromsp.com,deny
+synco,domain,desktop-updates.kabutoservices.com,deny
+synco,domain,ld.aurelius.host,deny
+synco,domain,production.kabutoservices.com,deny
+synco,domain,realtime.kabutoservices.com,deny
+synco,domain,api.syncromsp.com,deny
+synco,domain,syncro-live.syncromsp.com,deny
+synco,domain,traversal.syncromsp.com,deny
+synco,domain,updates.kabutoservices.com,deny
 splashtop,domain,api.splashtop.com,deny
 splashtop,domain,relay.splashtop.com,deny
 splashtop,domain,my.splashtop.com,deny
