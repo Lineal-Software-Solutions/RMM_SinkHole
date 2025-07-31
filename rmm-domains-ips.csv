@@ -423,6 +423,9 @@ level,domain,level.io,deny
 level,domain,agents.level.io,deny
 level,domain,builds.level.io,deny
 level,domain,downloads.level.io,deny
+level,domain,online.level.io,deny
+level,domain,realtime.ably.io,deny
+level,domain,prd-level-storage.s3.wasabisys.com,deny
 mermmcentral,domain,patchquest.com,deny
 mermmcentral,domain,sync.patchquest.com,deny
 mermmcentral,domain,patchdb.manageengine.com,deny
